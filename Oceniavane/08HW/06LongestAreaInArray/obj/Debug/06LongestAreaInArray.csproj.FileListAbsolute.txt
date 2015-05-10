@@ -1,0 +1,10 @@
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\06LongestAreaInArray\bin\Debug\06LongestAreaInArray.exe.config
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\06LongestAreaInArray\bin\Debug\06LongestAreaInArray.exe
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\06LongestAreaInArray\bin\Debug\06LongestAreaInArray.pdb
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\06LongestAreaInArray\obj\Debug\06LongestAreaInArray.exe
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\06LongestAreaInArray\obj\Debug\06LongestAreaInArray.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\06LongestAreaInArray\bin\Debug\06LongestAreaInArray.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\06LongestAreaInArray\obj\Debug\06LongestAreaInArray.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\06LongestAreaInArray\obj\Debug\06LongestAreaInArray.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\06LongestAreaInArray\bin\Debug\06LongestAreaInArray.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\06LongestAreaInArray\bin\Debug\06LongestAreaInArray.pdb

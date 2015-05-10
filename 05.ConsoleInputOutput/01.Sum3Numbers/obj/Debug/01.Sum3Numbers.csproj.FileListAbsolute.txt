@@ -1,0 +1,11 @@
+c:\users\elena\documents\visual studio 2013\Projects\Solution2\01.Sum3Numbers\bin\Debug\01.Sum3Numbers.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\Solution2\01.Sum3Numbers\bin\Debug\01.Sum3Numbers.exe
+c:\users\elena\documents\visual studio 2013\Projects\Solution2\01.Sum3Numbers\bin\Debug\01.Sum3Numbers.pdb
+c:\users\elena\documents\visual studio 2013\Projects\Solution2\01.Sum3Numbers\obj\Debug\01.Sum3Numbers.exe
+c:\users\elena\documents\visual studio 2013\Projects\Solution2\01.Sum3Numbers\obj\Debug\01.Sum3Numbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\01.Sum3Numbers\bin\Debug\01.Sum3Numbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\01.Sum3Numbers\obj\Debug\01.Sum3Numbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\01.Sum3Numbers\obj\Debug\01.Sum3Numbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\01.Sum3Numbers\bin\Debug\01.Sum3Numbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\01.Sum3Numbers\bin\Debug\01.Sum3Numbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\01.Sum3Numbers\obj\Debug\01.Sum3Numbers.csprojResolveAssemblyReference.cache

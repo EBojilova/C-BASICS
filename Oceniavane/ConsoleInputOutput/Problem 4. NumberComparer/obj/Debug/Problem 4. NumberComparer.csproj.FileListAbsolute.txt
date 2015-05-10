@@ -1,0 +1,1 @@
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem 4. NumberComparer\bin\Debug\Problem_4.NumberComparer.exe.config

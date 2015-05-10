@@ -1,0 +1,2 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\11.CountOfLetters\bin\Debug\07.CountOfLetters.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBasics\8.Homework-C# Advanced Topics\11.CountOfLetters\bin\Debug\07.CountOfLetters.exe.config

@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2013\Projects\07.Loops\02.NumbersNotDivisible3and7\bin\Debug\02.NumbersNotDivisible3and7.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\07.Loops\02.NumbersNotDivisible3and7\bin\Debug\02.NumbersNotDivisible3and7.exe
+c:\users\elena\documents\visual studio 2013\Projects\07.Loops\02.NumbersNotDivisible3and7\bin\Debug\02.NumbersNotDivisible3and7.pdb
+c:\users\elena\documents\visual studio 2013\Projects\07.Loops\02.NumbersNotDivisible3and7\obj\Debug\02.NumbersNotDivisible3and7.exe
+c:\users\elena\documents\visual studio 2013\Projects\07.Loops\02.NumbersNotDivisible3and7\obj\Debug\02.NumbersNotDivisible3and7.pdb

@@ -1,0 +1,8 @@
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\02PrimeChecker\bin\Debug\02PrimeChecker.exe.config
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\02PrimeChecker\bin\Debug\02PrimeChecker.exe
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\02PrimeChecker\bin\Debug\02PrimeChecker.pdb
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\02PrimeChecker\obj\Debug\02PrimeChecker.exe
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\02PrimeChecker\obj\Debug\02PrimeChecker.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\02PrimeChecker\bin\Debug\02PrimeChecker.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\02PrimeChecker\obj\Debug\02PrimeChecker.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\02PrimeChecker\obj\Debug\02PrimeChecker.pdb

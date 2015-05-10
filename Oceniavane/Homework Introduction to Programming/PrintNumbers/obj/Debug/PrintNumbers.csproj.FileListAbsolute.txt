@@ -1,0 +1,8 @@
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\PrintNumbers\bin\Debug\PrintNumbers.exe
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\PrintNumbers\bin\Debug\PrintNumbers.pdb
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\PrintNumbers\obj\Debug\PrintNumbers.exe
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\PrintNumbers\obj\Debug\PrintNumbers.pdb

@@ -1,0 +1,12 @@
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\13. Average Load Time Calculator\bin\Debug\_13.Average_Load_Time_Calculator.exe.config
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\13. Average Load Time Calculator\bin\Debug\_13.Average_Load_Time_Calculator.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\13. Average Load Time Calculator\bin\Debug\_13.Average_Load_Time_Calculator.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\13. Average Load Time Calculator\obj\Debug\13. Average Load Time Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\13. Average Load Time Calculator\obj\Debug\_13.Average_Load_Time_Calculator.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\13. Average Load Time Calculator\obj\Debug\_13.Average_Load_Time_Calculator.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\13. Average Load Time Calculator\bin\Debug\_13.Average_Load_Time_Calculator.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\13. Average Load Time Calculator\obj\Debug\_13.Average_Load_Time_Calculator.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\13. Average Load Time Calculator\obj\Debug\_13.Average_Load_Time_Calculator.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBasics\Oceniavane\Homework 8\13. Average Load Time Calculator\bin\Debug\_13.Average_Load_Time_Calculator.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBasics\Oceniavane\Homework 8\13. Average Load Time Calculator\obj\Debug\_13.Average_Load_Time_Calculator.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBasics\Oceniavane\Homework 8\13. Average Load Time Calculator\obj\Debug\_13.Average_Load_Time_Calculator.pdb

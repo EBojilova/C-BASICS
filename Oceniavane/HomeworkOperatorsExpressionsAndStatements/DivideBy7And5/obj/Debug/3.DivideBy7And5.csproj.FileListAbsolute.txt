@@ -1,0 +1,6 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\DivideBy7And5\obj\Debug\DivideBy7And5.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\DivideBy7And5\obj\Debug\DivideBy7And5.pdb

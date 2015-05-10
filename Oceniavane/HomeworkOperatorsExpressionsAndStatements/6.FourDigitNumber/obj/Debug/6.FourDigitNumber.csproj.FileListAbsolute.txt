@@ -1,0 +1,9 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.pdb
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.csprojResolveAssemblyReference.cache
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.pdb

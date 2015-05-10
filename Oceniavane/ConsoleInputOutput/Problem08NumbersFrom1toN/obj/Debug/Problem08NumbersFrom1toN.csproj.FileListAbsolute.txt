@@ -1,0 +1,10 @@
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem08NumbersFrom1toN\bin\Debug\Problem08NumbersFrom1toN.exe.config
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem08NumbersFrom1toN\bin\Debug\Problem08NumbersFrom1toN.exe
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem08NumbersFrom1toN\bin\Debug\Problem08NumbersFrom1toN.pdb
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem08NumbersFrom1toN\obj\Debug\Problem08NumbersFrom1toN.exe
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem08NumbersFrom1toN\obj\Debug\Problem08NumbersFrom1toN.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem08NumbersFrom1toN\bin\Debug\Problem08NumbersFrom1toN.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem08NumbersFrom1toN\obj\Debug\Problem08NumbersFrom1toN.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem08NumbersFrom1toN\obj\Debug\Problem08NumbersFrom1toN.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem08NumbersFrom1toN\bin\Debug\Problem08NumbersFrom1toN.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem08NumbersFrom1toN\bin\Debug\Problem08NumbersFrom1toN.pdb

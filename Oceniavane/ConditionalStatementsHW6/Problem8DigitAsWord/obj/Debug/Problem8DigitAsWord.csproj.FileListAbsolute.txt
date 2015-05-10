@@ -1,0 +1,5 @@
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem8DigitAsWord\bin\Debug\Problem8DigitAsWord.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem8DigitAsWord\bin\Debug\Problem8DigitAsWord.exe
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem8DigitAsWord\bin\Debug\Problem8DigitAsWord.pdb
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem8DigitAsWord\obj\Debug\Problem8DigitAsWord.exe
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem8DigitAsWord\obj\Debug\Problem8DigitAsWord.pdb

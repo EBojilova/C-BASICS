@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\Exam Tests\BiggestTriple\bin\Debug\BiggestTriple.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\Exam Tests\BiggestTriple\bin\Debug\BiggestTriple.exe
+c:\users\elena\documents\visual studio 2013\Projects\Exam Tests\BiggestTriple\bin\Debug\BiggestTriple.pdb
+c:\users\elena\documents\visual studio 2013\Projects\Exam Tests\BiggestTriple\obj\Debug\BiggestTriple.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\Exam Tests\BiggestTriple\obj\Debug\BiggestTriple.exe
+c:\users\elena\documents\visual studio 2013\Projects\Exam Tests\BiggestTriple\obj\Debug\BiggestTriple.pdb

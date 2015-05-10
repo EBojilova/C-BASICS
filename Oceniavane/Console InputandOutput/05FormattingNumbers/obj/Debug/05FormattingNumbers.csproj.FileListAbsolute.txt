@@ -1,0 +1,12 @@
+D:\C#MYPROGRAMING\Console InputandOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe.config
+D:\C#MYPROGRAMING\Console InputandOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe
+D:\C#MYPROGRAMING\Console InputandOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.pdb
+D:\C#MYPROGRAMING\Console InputandOutput\05FormattingNumbers\obj\Debug\05FormattingNumbers.csprojResolveAssemblyReference.cache
+D:\C#MYPROGRAMING\Console InputandOutput\05FormattingNumbers\obj\Debug\05FormattingNumbers.exe
+D:\C#MYPROGRAMING\Console InputandOutput\05FormattingNumbers\obj\Debug\05FormattingNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\05FormattingNumbers\obj\Debug\05FormattingNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\05FormattingNumbers\obj\Debug\05FormattingNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\05FormattingNumbers\obj\Debug\05FormattingNumbers.csprojResolveAssemblyReference.cache

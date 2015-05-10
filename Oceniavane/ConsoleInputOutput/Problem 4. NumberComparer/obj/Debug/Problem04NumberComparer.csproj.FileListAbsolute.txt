@@ -1,0 +1,10 @@
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem 4. NumberComparer\bin\Debug\Problem_4.NumberComparer.exe.config
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem 4. NumberComparer\bin\Debug\Problem_4.NumberComparer.exe
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem 4. NumberComparer\bin\Debug\Problem_4.NumberComparer.pdb
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem 4. NumberComparer\obj\Debug\Problem_4.NumberComparer.exe
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem 4. NumberComparer\obj\Debug\Problem_4.NumberComparer.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem 4. NumberComparer\bin\Debug\Problem_4.NumberComparer.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem 4. NumberComparer\obj\Debug\Problem_4.NumberComparer.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem 4. NumberComparer\obj\Debug\Problem_4.NumberComparer.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem 4. NumberComparer\bin\Debug\Problem_4.NumberComparer.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem 4. NumberComparer\bin\Debug\Problem_4.NumberComparer.pdb

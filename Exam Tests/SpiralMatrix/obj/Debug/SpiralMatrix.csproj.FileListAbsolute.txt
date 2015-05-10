@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SpiralMatrix\obj\Debug\SpiralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SpiralMatrix\obj\Debug\SpiralMatrix.pdb

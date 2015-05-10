@@ -1,0 +1,5 @@
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem9PlayWithIntDoubleString\bin\Debug\Problem9PlayWithIntDoubleString.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem9PlayWithIntDoubleString\bin\Debug\Problem9PlayWithIntDoubleString.exe
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem9PlayWithIntDoubleString\bin\Debug\Problem9PlayWithIntDoubleString.pdb
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem9PlayWithIntDoubleString\obj\Debug\Problem9PlayWithIntDoubleString.exe
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem9PlayWithIntDoubleString\obj\Debug\Problem9PlayWithIntDoubleString.pdb

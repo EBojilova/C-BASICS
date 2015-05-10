@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\09. Remove Names\bin\Debug\_05.Remove_Names.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\09. Remove Names\obj\Debug\_05.Remove_Names.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\09. Remove Names\obj\Debug\_05.Remove_Names.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\09. Remove Names\bin\Debug\_05.Remove_Names.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\09. Remove Names\bin\Debug\_05.Remove_Names.pdb

@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\ArrayMatcher\bin\Debug\ArrayMatcher.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\ArrayMatcher\bin\Debug\ArrayMatcher.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\ArrayMatcher\bin\Debug\ArrayMatcher.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\ArrayMatcher\obj\Debug\ArrayMatcher.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\ArrayMatcher\obj\Debug\ArrayMatcher.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\ArrayMatcher\obj\Debug\ArrayMatcher.pdb

@@ -1,0 +1,9 @@
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\09. Remove Names\bin\Debug\_09.Remove_Names.exe.config
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\09. Remove Names\bin\Debug\_09.Remove_Names.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\09. Remove Names\bin\Debug\_09.Remove_Names.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\09. Remove Names\obj\Debug\_09.Remove_Names.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\09. Remove Names\obj\Debug\_09.Remove_Names.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\09. Remove Names\obj\Debug\09. Remove Names.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\09. Remove Names\bin\Debug\_09.Remove_Names.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\09. Remove Names\obj\Debug\_09.Remove_Names.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\09. Remove Names\obj\Debug\_09.Remove_Names.pdb

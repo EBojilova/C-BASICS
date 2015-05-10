@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\Into-Programming-Homework\obj\x86\Debug\Into-Programming-Homework.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\Into-Programming-Homework\bin\Debug\Into-Programming-Homework.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\Into-Programming-Homework\bin\Debug\Into-Programming-Homework.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\Into-Programming-Homework\obj\x86\Debug\Hello c# .csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\Into-Programming-Homework\obj\x86\Debug\Into-Programming-Homework.pdb

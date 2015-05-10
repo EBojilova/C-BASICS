@@ -1,0 +1,6 @@
+D:\Stuff\Software University\Домашни\Loops\03MinMaxSum\bin\Debug\03MinMaxSum.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\03MinMaxSum\bin\Debug\03MinMaxSum.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\03MinMaxSum\bin\Debug\03MinMaxSum.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\03MinMaxSum\bin\Debug\03MinMaxSum.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\03MinMaxSum\obj\Debug\03MinMaxSum.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\03MinMaxSum\obj\Debug\03MinMaxSum.pdb

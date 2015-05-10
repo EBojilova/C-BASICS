@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\06-TheBiggestOf5Numbers\bin\Debug\06-TheBiggestOf5Numbers.exe.config
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\06-TheBiggestOf5Numbers\bin\Debug\06-TheBiggestOf5Numbers.exe
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\06-TheBiggestOf5Numbers\bin\Debug\06-TheBiggestOf5Numbers.pdb
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\06-TheBiggestOf5Numbers\obj\Debug\06-TheBiggestOf5Numbers.exe
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\06-TheBiggestOf5Numbers\obj\Debug\06-TheBiggestOf5Numbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\06-TheBiggestOf5Numbers\bin\Debug\06-TheBiggestOf5Numbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\06-TheBiggestOf5Numbers\obj\Debug\06-TheBiggestOf5Numbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\06-TheBiggestOf5Numbers\obj\Debug\06-TheBiggestOf5Numbers.pdb

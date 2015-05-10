@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_03_PrimesInRange\bin\Debug\H7_03_PrimesInRange.exe
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_03_PrimesInRange\bin\Debug\H7_03_PrimesInRange.pdb
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_03_PrimesInRange\obj\x86\Debug\H7_03_PrimesInRange.exe
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_03_PrimesInRange\obj\x86\Debug\H7_03_PrimesInRange.pdb

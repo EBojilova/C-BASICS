@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SequenceOfKnumbers\bin\Debug\SequenceOfKnumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SequenceOfKnumbers\bin\Debug\SequenceOfKnumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SequenceOfKnumbers\bin\Debug\SequenceOfKnumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SequenceOfKnumbers\obj\Debug\SequenceOfKnumbers.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SequenceOfKnumbers\obj\Debug\SequenceOfKnumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SequenceOfKnumbers\obj\Debug\SequenceOfKnumbers.pdb

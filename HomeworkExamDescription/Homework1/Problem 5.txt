@@ -1,0 +1,20 @@
+http://www.binaryhexconverter.com/decimal-to-binary-converter
+http://www.binaryhexconverter.com/decimal-to-hex-converter
+
+0000010011010010
+
+4D2
+
+http://www.binaryhexconverter.com/binary-to-decimal-converter
+http://www.binaryhexconverter.com/binary-to-hex-converter
+
+101
+
+65
+
+http://www.binaryhexconverter.com/hex-to-decimal-converter
+http://www.binaryhexconverter.com/hex-to-binary-converter
+
+2748
+
+1010 1011 1100

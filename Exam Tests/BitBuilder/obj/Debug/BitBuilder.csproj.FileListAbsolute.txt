@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitBuilder\bin\Debug\BitBuilder.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitBuilder\bin\Debug\BitBuilder.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitBuilder\bin\Debug\BitBuilder.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitBuilder\obj\Debug\BitBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitBuilder\obj\Debug\BitBuilder.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitBuilder\obj\Debug\BitBuilder.pdb

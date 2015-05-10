@@ -1,0 +1,12 @@
+c:\users\elena\documents\visual studio 2013\Projects\Solution2\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\Solution2\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+c:\users\elena\documents\visual studio 2013\Projects\Solution2\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+c:\users\elena\documents\visual studio 2013\Projects\Solution2\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\Solution2\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+c:\users\elena\documents\visual studio 2013\Projects\Solution2\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb

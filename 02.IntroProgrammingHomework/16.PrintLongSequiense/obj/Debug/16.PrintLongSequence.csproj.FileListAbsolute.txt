@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\16.PrintLongSequiense\bin\Debug\16.PrintLongSequiense.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\16.PrintLongSequiense\bin\Debug\16.PrintLongSequiense.exe
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\16.PrintLongSequiense\bin\Debug\16.PrintLongSequiense.pdb
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\16.PrintLongSequiense\obj\Debug\16.PrintLongSequiense.exe
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\16.PrintLongSequiense\obj\Debug\16.PrintLongSequiense.pdb

@@ -1,0 +1,6 @@
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\09. Load Time Calculator\bin\Debug\_09.Load_Time_Calculator.exe.config
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\09. Load Time Calculator\bin\Debug\_09.Load_Time_Calculator.exe
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\09. Load Time Calculator\bin\Debug\_09.Load_Time_Calculator.pdb
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\09. Load Time Calculator\obj\Debug\09. Load Time Calculator.csprojResolveAssemblyReference.cache
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\09. Load Time Calculator\obj\Debug\_09.Load_Time_Calculator.exe
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\09. Load Time Calculator\obj\Debug\_09.Load_Time_Calculator.pdb

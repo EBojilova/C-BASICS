@@ -1,0 +1,4 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\PrintSequance\bin\Debug\PrintSequance.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\PrintSequance\bin\Debug\PrintSequance.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\PrintSequance\obj\x86\Debug\PrintSequance.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\PrintSequance\obj\x86\Debug\PrintSequance.pdb

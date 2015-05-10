@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\16.HalfSum\bin\Release\16.HalfSum.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\16.HalfSum\bin\Release\16.HalfSum.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\16.HalfSum\bin\Release\16.HalfSum.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\16.HalfSum\obj\Release\16.HalfSum.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\16.HalfSum\obj\Release\16.HalfSum.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\16.HalfSum\obj\Release\16.HalfSum.pdb

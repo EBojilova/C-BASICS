@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\15.JoroFootballPlayer\bin\Release\15.JoroFootballPlayer.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\15.JoroFootballPlayer\obj\Release\15.JoroFootballPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\15.JoroFootballPlayer\bin\Release\15.JoroFootballPlayer.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\15.JoroFootballPlayer\bin\Release\15.JoroFootballPlayer.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\15.JoroFootballPlayer\obj\Release\15.JoroFootballPlayer.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\15.JoroFootballPlayer\obj\Release\15.JoroFootballPlayer.pdb

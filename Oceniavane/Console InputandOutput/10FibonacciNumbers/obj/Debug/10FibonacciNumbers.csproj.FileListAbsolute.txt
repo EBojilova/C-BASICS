@@ -1,0 +1,12 @@
+D:\C#MYPROGRAMING\Console InputandOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe.config
+D:\C#MYPROGRAMING\Console InputandOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.csprojResolveAssemblyReference.cache
+D:\C#MYPROGRAMING\Console InputandOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe
+D:\C#MYPROGRAMING\Console InputandOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.pdb
+D:\C#MYPROGRAMING\Console InputandOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.exe
+D:\C#MYPROGRAMING\Console InputandOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.csprojResolveAssemblyReference.cache

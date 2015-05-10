@@ -1,0 +1,6 @@
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\06. Join Lists\bin\Debug\_06.Join_Lists.exe.config
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\06. Join Lists\bin\Debug\_06.Join_Lists.exe
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\06. Join Lists\bin\Debug\_06.Join_Lists.pdb
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\06. Join Lists\obj\Debug\06. Join Lists.csprojResolveAssemblyReference.cache
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\06. Join Lists\obj\Debug\_06.Join_Lists.exe
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\06. Join Lists\obj\Debug\_06.Join_Lists.pdb

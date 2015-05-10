@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.pdb

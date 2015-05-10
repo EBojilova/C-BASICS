@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Xbits\bin\Debug\Xbits.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Xbits\bin\Debug\Xbits.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Xbits\bin\Debug\Xbits.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Xbits\obj\Debug\Bit-Xbits.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Xbits\obj\Debug\Xbits.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Xbits\obj\Debug\Xbits.pdb

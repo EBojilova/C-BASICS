@@ -1,0 +1,12 @@
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe.config
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.pdb
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.pdb

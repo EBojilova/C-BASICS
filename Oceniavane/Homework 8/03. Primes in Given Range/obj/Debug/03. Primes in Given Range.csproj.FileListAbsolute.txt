@@ -1,0 +1,11 @@
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\03. Primes in Given Range\bin\Debug\_03.Primes_in_Given_Range.exe.config
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\03. Primes in Given Range\bin\Debug\_03.Primes_in_Given_Range.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\03. Primes in Given Range\bin\Debug\_03.Primes_in_Given_Range.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\03. Primes in Given Range\obj\Debug\_03.Primes_in_Given_Range.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\03. Primes in Given Range\obj\Debug\_03.Primes_in_Given_Range.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\03. Primes in Given Range\bin\Debug\_03.Primes_in_Given_Range.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\03. Primes in Given Range\obj\Debug\_03.Primes_in_Given_Range.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\03. Primes in Given Range\obj\Debug\_03.Primes_in_Given_Range.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\03. Primes in Given Range\bin\Debug\_03.Primes_in_Given_Range.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\03. Primes in Given Range\bin\Debug\_03.Primes_in_Given_Range.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\03. Primes in Given Range\obj\Debug\03. Primes in Given Range.csprojResolveAssemblyReference.cache

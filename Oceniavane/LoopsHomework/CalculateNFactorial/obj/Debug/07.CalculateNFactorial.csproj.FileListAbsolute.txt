@@ -1,0 +1,9 @@
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\CalculateNFactorial\bin\Debug\CalculateNFactorial.exe.config
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\CalculateNFactorial\bin\Debug\CalculateNFactorial.exe
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\CalculateNFactorial\bin\Debug\CalculateNFactorial.pdb
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\CalculateNFactorial\obj\Debug\07.CalculateNFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\CalculateNFactorial\obj\Debug\CalculateNFactorial.exe
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\CalculateNFactorial\obj\Debug\CalculateNFactorial.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\CalculateNFactorial\bin\Debug\CalculateNFactorial.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\CalculateNFactorial\obj\Debug\CalculateNFactorial.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\CalculateNFactorial\obj\Debug\CalculateNFactorial.pdb

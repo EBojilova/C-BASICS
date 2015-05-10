@@ -1,0 +1,11 @@
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\PhibonacciNumber\obj\Debug\PhibonacciNumber.exe
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\PhibonacciNumber\obj\Debug\PhibonacciNumber.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\PhibonacciNumber\bin\Debug\PhibonacciNumber.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\PhibonacciNumber\obj\Debug\PhibonacciNumber.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\PhibonacciNumber\obj\Debug\PhibonacciNumber.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\PhibonacciNumber\obj\Debug\01FibonacciNumber.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\PhibonacciNumber\bin\Debug\PhibonacciNumber.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\PhibonacciNumber\bin\Debug\PhibonacciNumber.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBasics\Oceniavane\08HW\PhibonacciNumber\bin\Debug\PhibonacciNumber.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBasics\Oceniavane\08HW\PhibonacciNumber\obj\Debug\PhibonacciNumber.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBasics\Oceniavane\08HW\PhibonacciNumber\obj\Debug\PhibonacciNumber.pdb

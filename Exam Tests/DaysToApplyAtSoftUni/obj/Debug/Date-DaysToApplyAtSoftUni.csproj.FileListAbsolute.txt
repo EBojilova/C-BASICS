@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBASICS\Exam Tests\DaysToApplyAtSoftUni\bin\Debug\DaysToApplyAtSoftUni.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBASICS\Exam Tests\DaysToApplyAtSoftUni\obj\Debug\DaysToApplyAtSoftUni.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBASICS\Exam Tests\DaysToApplyAtSoftUni\obj\Debug\DaysToApplyAtSoftUni.pdb

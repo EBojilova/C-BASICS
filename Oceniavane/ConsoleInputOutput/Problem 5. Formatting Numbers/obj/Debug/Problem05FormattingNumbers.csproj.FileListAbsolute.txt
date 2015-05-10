@@ -1,0 +1,10 @@
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe.config
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.pdb
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem 5. Formatting Numbers\obj\Debug\Problem_5.Formatting_Numbers.exe
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem 5. Formatting Numbers\obj\Debug\Problem_5.Formatting_Numbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem 5. Formatting Numbers\obj\Debug\Problem_5.Formatting_Numbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem 5. Formatting Numbers\obj\Debug\Problem_5.Formatting_Numbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.pdb

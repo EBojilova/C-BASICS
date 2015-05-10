@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\Toto\bin\Release\Toto.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\Toto\bin\Release\Toto.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\Toto\obj\Release\13. TOTO 6-49.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\Toto\obj\Release\Toto.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\Toto\obj\Release\Toto.pdb

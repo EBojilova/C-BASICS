@@ -1,0 +1,10 @@
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb

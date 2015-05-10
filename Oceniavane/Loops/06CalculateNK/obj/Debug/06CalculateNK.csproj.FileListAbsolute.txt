@@ -1,0 +1,2 @@
+D:\Stuff\Software University\Домашни\Loops\06CalculateNK\bin\Debug\06CalculateNK.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\06CalculateNK\bin\Debug\06CalculateNK.exe.config

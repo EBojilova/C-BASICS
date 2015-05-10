@@ -1,0 +1,9 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\08.Numbers1toN\bin\Debug\08.Numbers1toN.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\08.Numbers1toN\bin\Debug\08.Numbers1toN.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\08.Numbers1toN\bin\Debug\08.Numbers1toN.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\08.Numbers1toN\obj\Debug\08.Numbers1toN.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\08.Numbers1toN\obj\Debug\08.Numbers1toN.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\08.Numbers1toN\obj\Debug\08.Numbers1toN.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\08.Numbers1toN\bin\Debug\08.Numbers1toN.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\08.Numbers1toN\obj\Debug\08.Numbers1toN.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\08.Numbers1toN\obj\Debug\08.Numbers1toN.pdb

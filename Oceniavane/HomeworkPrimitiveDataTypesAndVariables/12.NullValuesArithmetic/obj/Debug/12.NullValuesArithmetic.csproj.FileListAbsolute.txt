@@ -1,0 +1,3 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.csprojResolveAssemblyReference.cache

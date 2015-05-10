@@ -1,0 +1,9 @@
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\10. Join Lists\bin\Debug\_10.Join_Lists.exe.config
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\10. Join Lists\bin\Debug\_10.Join_Lists.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\10. Join Lists\bin\Debug\_10.Join_Lists.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\10. Join Lists\obj\Debug\10. Join Lists.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\10. Join Lists\obj\Debug\_10.Join_Lists.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\10. Join Lists\obj\Debug\_10.Join_Lists.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\10. Join Lists\bin\Debug\_10.Join_Lists.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\10. Join Lists\obj\Debug\_10.Join_Lists.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\10. Join Lists\obj\Debug\_10.Join_Lists.pdb

@@ -1,0 +1,10 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\09.SumNnumbers\bin\Debug\09.SumNnumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\09.SumNnumbers\bin\Debug\09.SumNnumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\09.SumNnumbers\bin\Debug\09.SumNnumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\09.SumNnumbers\obj\Debug\09.SumNnumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\09.SumNnumbers\obj\Debug\09.SumNnumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\09.SumNnumbers\bin\Debug\09.SumNnumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\09.SumNnumbers\obj\Debug\09.SumNnumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\09.SumNnumbers\obj\Debug\09.SumNnumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\09.SumNnumbers\bin\Debug\09.SumNnumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\09.SumNnumbers\bin\Debug\09.SumNnumbers.pdb

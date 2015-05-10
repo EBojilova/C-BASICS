@@ -1,0 +1,8 @@
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\18. Inside the Building\bin\Debug\_18.Inside_the_Building.exe.config
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\18. Inside the Building\bin\Debug\_18.Inside_the_Building.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\18. Inside the Building\bin\Debug\_18.Inside_the_Building.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\18. Inside the Building\obj\Debug\_18.Inside_the_Building.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\18. Inside the Building\obj\Debug\_18.Inside_the_Building.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\18. Inside the Building\bin\Debug\_18.Inside_the_Building.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\18. Inside the Building\obj\Debug\_18.Inside_the_Building.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\18. Inside the Building\obj\Debug\_18.Inside_the_Building.pdb

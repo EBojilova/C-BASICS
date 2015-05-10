@@ -1,0 +1,4 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\AgeAfter10Years\obj\x86\Debug\AgeAfter10Years.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\AgeAfter10Years\obj\x86\Debug\AgeAfter10Years.pdb

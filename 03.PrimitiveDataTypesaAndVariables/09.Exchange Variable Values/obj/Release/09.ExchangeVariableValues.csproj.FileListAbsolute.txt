@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\09.Exchange Variable Values\bin\Release\09.Exchange Variable Values.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\09.Exchange Variable Values\bin\Release\09.Exchange Variable Values.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\09.Exchange Variable Values\bin\Release\09.Exchange Variable Values.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\09.Exchange Variable Values\obj\Release\09.Exchange Variable Values.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\09.Exchange Variable Values\obj\Release\09.Exchange Variable Values.pdb

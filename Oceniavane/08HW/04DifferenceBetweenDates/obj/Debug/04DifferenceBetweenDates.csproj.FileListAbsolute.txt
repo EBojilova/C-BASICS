@@ -1,0 +1,10 @@
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe.config
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.pdb
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.exe
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.pdb

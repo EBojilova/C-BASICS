@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\FriendBits\bin\Debug\FriendBits.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\FriendBits\bin\Debug\FriendBits.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\FriendBits\bin\Debug\FriendBits.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\FriendBits\obj\Debug\Bit-FriendBits.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\FriendBits\obj\Debug\FriendBits.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\FriendBits\obj\Debug\FriendBits.pdb

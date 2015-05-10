@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\HalfByteSwapper\bin\Debug\HalfByteSwapper.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\HalfByteSwapper\bin\Debug\HalfByteSwapper.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\HalfByteSwapper\bin\Debug\HalfByteSwapper.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\HalfByteSwapper\obj\Debug\HalfByteSwapper.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\HalfByteSwapper\obj\Debug\HalfByteSwapper.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\HalfByteSwapper\obj\Debug\HalfByteSwapper.pdb

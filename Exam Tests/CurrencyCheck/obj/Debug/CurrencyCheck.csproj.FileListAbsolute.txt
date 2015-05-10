@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CurrencyCheck\bin\Debug\CurrencyCheck.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CurrencyCheck\bin\Debug\CurrencyCheck.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CurrencyCheck\bin\Debug\CurrencyCheck.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CurrencyCheck\obj\Debug\CurrencyCheck.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CurrencyCheck\obj\Debug\CurrencyCheck.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CurrencyCheck\obj\Debug\CurrencyCheck.pdb

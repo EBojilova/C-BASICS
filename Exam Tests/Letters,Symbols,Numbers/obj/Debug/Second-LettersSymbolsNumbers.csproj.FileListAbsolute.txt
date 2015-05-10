@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Letters,Symbols,Numbers\bin\Debug\Letters,Symbols,Numbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Letters,Symbols,Numbers\bin\Debug\Letters,Symbols,Numbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Letters,Symbols,Numbers\bin\Debug\Letters,Symbols,Numbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Letters,Symbols,Numbers\obj\Debug\Second-LettersSymbolsNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Letters,Symbols,Numbers\obj\Debug\Letters,Symbols,Numbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Letters,Symbols,Numbers\obj\Debug\Letters,Symbols,Numbers.pdb

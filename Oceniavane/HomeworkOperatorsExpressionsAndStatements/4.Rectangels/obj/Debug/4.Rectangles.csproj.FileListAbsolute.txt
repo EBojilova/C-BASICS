@@ -1,0 +1,9 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\4.Rectangels\bin\Debug\4.Rectangels.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\4.Rectangels\bin\Debug\4.Rectangels.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\4.Rectangels\bin\Debug\4.Rectangels.pdb
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\4.Rectangels\obj\Debug\4.Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\4.Rectangels\obj\Debug\4.Rectangels.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\4.Rectangels\obj\Debug\4.Rectangels.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\4.Rectangels\bin\Debug\4.Rectangels.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\4.Rectangels\obj\Debug\4.Rectangels.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\4.Rectangels\obj\Debug\4.Rectangels.pdb

@@ -1,0 +1,8 @@
+c:\users\mladen\documents\visual studio 2013\Projects\LoopsHomework\LoopsHomework\bin\Debug\LoopsHomework.exe.config
+c:\users\mladen\documents\visual studio 2013\Projects\LoopsHomework\LoopsHomework\bin\Debug\LoopsHomework.exe
+c:\users\mladen\documents\visual studio 2013\Projects\LoopsHomework\LoopsHomework\bin\Debug\LoopsHomework.pdb
+c:\users\mladen\documents\visual studio 2013\Projects\LoopsHomework\LoopsHomework\obj\Debug\LoopsHomework.exe
+c:\users\mladen\documents\visual studio 2013\Projects\LoopsHomework\LoopsHomework\obj\Debug\LoopsHomework.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\LoopsHomework\bin\Debug\LoopsHomework.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\LoopsHomework\obj\Debug\LoopsHomework.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\LoopsHomework\obj\Debug\LoopsHomework.pdb

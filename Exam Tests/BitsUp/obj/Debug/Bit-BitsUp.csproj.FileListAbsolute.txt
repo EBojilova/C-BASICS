@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsUp\bin\Debug\BitsUp.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsUp\bin\Debug\BitsUp.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsUp\bin\Debug\BitsUp.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsUp\obj\Debug\Bit-BitsUp.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsUp\obj\Debug\BitsUp.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsUp\obj\Debug\BitsUp.pdb

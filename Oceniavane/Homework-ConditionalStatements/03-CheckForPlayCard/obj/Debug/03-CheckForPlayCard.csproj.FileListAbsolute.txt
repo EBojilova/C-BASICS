@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\03-CheckForPlayCard\bin\Debug\03-CheckForPlayCard.exe.config
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\03-CheckForPlayCard\bin\Debug\03-CheckForPlayCard.exe
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\03-CheckForPlayCard\bin\Debug\03-CheckForPlayCard.pdb
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\03-CheckForPlayCard\obj\Debug\03-CheckForPlayCard.exe
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\03-CheckForPlayCard\obj\Debug\03-CheckForPlayCard.pdb
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\03-CheckForPlayCard\obj\Debug\03-CheckForPlayCard.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\03-CheckForPlayCard\bin\Debug\03-CheckForPlayCard.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\03-CheckForPlayCard\obj\Debug\03-CheckForPlayCard.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\03-CheckForPlayCard\obj\Debug\03-CheckForPlayCard.pdb

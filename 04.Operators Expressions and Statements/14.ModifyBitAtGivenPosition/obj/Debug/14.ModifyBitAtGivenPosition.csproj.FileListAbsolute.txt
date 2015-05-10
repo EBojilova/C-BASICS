@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\14.ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\14.ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\14.ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.pdb

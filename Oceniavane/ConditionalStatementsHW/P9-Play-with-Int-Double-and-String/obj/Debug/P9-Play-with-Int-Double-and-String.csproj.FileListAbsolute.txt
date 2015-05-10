@@ -1,0 +1,8 @@
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P9-Play-with-Int-Double-and-String\bin\Debug\P9-Play-with-Int-Double-and-String.exe.config
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P9-Play-with-Int-Double-and-String\bin\Debug\P9-Play-with-Int-Double-and-String.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P9-Play-with-Int-Double-and-String\bin\Debug\P9-Play-with-Int-Double-and-String.pdb
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P9-Play-with-Int-Double-and-String\obj\Debug\P9-Play-with-Int-Double-and-String.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P9-Play-with-Int-Double-and-String\obj\Debug\P9-Play-with-Int-Double-and-String.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P9-Play-with-Int-Double-and-String\bin\Debug\P9-Play-with-Int-Double-and-String.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P9-Play-with-Int-Double-and-String\obj\Debug\P9-Play-with-Int-Double-and-String.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P9-Play-with-Int-Double-and-String\obj\Debug\P9-Play-with-Int-Double-and-String.pdb

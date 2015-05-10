@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.pdb

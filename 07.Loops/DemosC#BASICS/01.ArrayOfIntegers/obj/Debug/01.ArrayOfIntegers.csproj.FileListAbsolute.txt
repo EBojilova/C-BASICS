@@ -1,0 +1,7 @@
+c:\users\bi0game\documents\visual studio 2013\Projects\Collections-Demos\01.ArrayOfIntegers\bin\Debug\01.ArrayOfIntegers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\01.ArrayOfIntegers\bin\Debug\01.ArrayOfIntegers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\01.ArrayOfIntegers\bin\Debug\01.ArrayOfIntegers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\01.ArrayOfIntegers\bin\Debug\01.ArrayOfIntegers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\01.ArrayOfIntegers\obj\Debug\01.ArrayOfIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\01.ArrayOfIntegers\obj\Debug\01.ArrayOfIntegers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\01.ArrayOfIntegers\obj\Debug\01.ArrayOfIntegers.pdb

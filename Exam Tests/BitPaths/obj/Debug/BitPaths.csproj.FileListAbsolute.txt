@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitPaths\bin\Debug\BitPaths.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitPaths\obj\Debug\BitPaths.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitPaths\bin\Debug\BitPaths.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitPaths\bin\Debug\BitPaths.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitPaths\obj\Debug\BitPaths.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitPaths\obj\Debug\BitPaths.pdb

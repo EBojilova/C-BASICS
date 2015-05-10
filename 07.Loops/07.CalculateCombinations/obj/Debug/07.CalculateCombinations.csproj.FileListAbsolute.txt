@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.pdb

@@ -1,0 +1,6 @@
+D:\Stuff\Software University\Домашни\Loops\05CalculateN\bin\Debug\05CalculateN.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\05CalculateN\bin\Debug\05CalculateN.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\05CalculateN\bin\Debug\05CalculateN.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\05CalculateN\bin\Debug\05CalculateN.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\05CalculateN\obj\Debug\05CalculateN.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\05CalculateN\obj\Debug\05CalculateN.pdb

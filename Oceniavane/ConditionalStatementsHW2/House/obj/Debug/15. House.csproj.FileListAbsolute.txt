@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\House\bin\Debug\House.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\House\bin\Debug\House.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\House\bin\Debug\House.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\House\obj\Debug\House.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\House\obj\Debug\House.pdb

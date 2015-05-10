@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\18.TrailingZeroesN!\bin\Debug\18.TrailingZeroesN!.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\18.TrailingZeroesN!\bin\Debug\18.TrailingZeroesN!.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\18.TrailingZeroesN!\bin\Debug\18.TrailingZeroesN!.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\18.TrailingZeroesN!\obj\Debug\18.TrailingZeroesN!.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\18.TrailingZeroesN!\obj\Debug\18.TrailingZeroesN!.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\18.TrailingZeroesN!\obj\Debug\18.TrailingZeroesN!.csprojResolveAssemblyReference.cache

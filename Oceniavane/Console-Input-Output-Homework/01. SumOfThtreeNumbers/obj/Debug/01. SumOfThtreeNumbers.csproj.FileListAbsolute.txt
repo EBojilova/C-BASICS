@@ -1,0 +1,9 @@
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\01. SumOfThtreeNumbers\bin\Debug\_01.SumOfThtreeNumbers.exe.config
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\01. SumOfThtreeNumbers\bin\Debug\_01.SumOfThtreeNumbers.exe
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\01. SumOfThtreeNumbers\bin\Debug\_01.SumOfThtreeNumbers.pdb
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\01. SumOfThtreeNumbers\obj\Debug\01. SumOfThtreeNumbers.csprojResolveAssemblyReference.cache
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\01. SumOfThtreeNumbers\obj\Debug\_01.SumOfThtreeNumbers.exe
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\01. SumOfThtreeNumbers\obj\Debug\_01.SumOfThtreeNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\01. SumOfThtreeNumbers\bin\Debug\_01.SumOfThtreeNumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\01. SumOfThtreeNumbers\obj\Debug\_01.SumOfThtreeNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\01. SumOfThtreeNumbers\obj\Debug\_01.SumOfThtreeNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\13.ComparingFloats\bin\Release\13.ComparingFloats.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\13.ComparingFloats\bin\Release\13.ComparingFloats.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\13.ComparingFloats\bin\Release\13.ComparingFloats.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\13.ComparingFloats\obj\Release\13.ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\13.ComparingFloats\obj\Release\13.ComparingFloats.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\13.ComparingFloats\obj\Release\13.ComparingFloats.pdb

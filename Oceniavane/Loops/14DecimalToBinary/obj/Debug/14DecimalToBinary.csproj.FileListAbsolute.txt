@@ -1,0 +1,2 @@
+D:\Stuff\Software University\Домашни\Loops\14DecimalToBinary\bin\Debug\14DecimalToBinary.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\14DecimalToBinary\bin\Debug\14DecimalToBinary.exe.config

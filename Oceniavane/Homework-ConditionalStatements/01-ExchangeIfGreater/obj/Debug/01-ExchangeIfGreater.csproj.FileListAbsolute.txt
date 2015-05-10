@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\01-ExchangeIfGreater\bin\Debug\01-ExchangeIfGreater.exe.config
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\01-ExchangeIfGreater\bin\Debug\01-ExchangeIfGreater.exe
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\01-ExchangeIfGreater\bin\Debug\01-ExchangeIfGreater.pdb
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\01-ExchangeIfGreater\obj\Debug\01-ExchangeIfGreater.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\01-ExchangeIfGreater\obj\Debug\01-ExchangeIfGreater.exe
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\01-ExchangeIfGreater\obj\Debug\01-ExchangeIfGreater.pdb
+C:\Users\User\Desktop\C#Basics2015\6-ConditionalStatements\Homework-ConditionalStatements\01-ExchangeIfGreater\bin\Debug\01-ExchangeIfGreater.exe.config
+C:\Users\User\Desktop\C#Basics2015\6-ConditionalStatements\Homework-ConditionalStatements\01-ExchangeIfGreater\obj\Debug\01-ExchangeIfGreater.exe
+C:\Users\User\Desktop\C#Basics2015\6-ConditionalStatements\Homework-ConditionalStatements\01-ExchangeIfGreater\obj\Debug\01-ExchangeIfGreater.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\01-ExchangeIfGreater\bin\Debug\01-ExchangeIfGreater.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\01-ExchangeIfGreater\obj\Debug\01-ExchangeIfGreater.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\01-ExchangeIfGreater\obj\Debug\01-ExchangeIfGreater.pdb

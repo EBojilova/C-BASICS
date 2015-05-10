@@ -1,0 +1,8 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb

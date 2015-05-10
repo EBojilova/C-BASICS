@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\10. Join Lists\bin\Debug\_06.Join_Lists.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\10. Join Lists\obj\Debug\_06.Join_Lists.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\10. Join Lists\obj\Debug\_06.Join_Lists.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\10. Join Lists\bin\Debug\_06.Join_Lists.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\10. Join Lists\bin\Debug\_06.Join_Lists.pdb

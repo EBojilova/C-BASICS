@@ -1,0 +1,6 @@
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\03. Matrix of Palindromes\bin\Debug\_03.Matrix_of_Palindromes.exe.config
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\03. Matrix of Palindromes\bin\Debug\_03.Matrix_of_Palindromes.exe
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\03. Matrix of Palindromes\bin\Debug\_03.Matrix_of_Palindromes.pdb
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\03. Matrix of Palindromes\obj\Debug\03. Matrix of Palindromes.csprojResolveAssemblyReference.cache
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\03. Matrix of Palindromes\obj\Debug\_03.Matrix_of_Palindromes.exe
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\03. Matrix of Palindromes\obj\Debug\_03.Matrix_of_Palindromes.pdb

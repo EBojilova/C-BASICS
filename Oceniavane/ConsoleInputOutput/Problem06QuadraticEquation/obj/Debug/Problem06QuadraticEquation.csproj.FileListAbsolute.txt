@@ -1,0 +1,12 @@
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem06QuadraticEquation\bin\Debug\Problem06QuadraticEquation.exe.config
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem06QuadraticEquation\bin\Debug\Problem06QuadraticEquation.exe
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem06QuadraticEquation\bin\Debug\Problem06QuadraticEquation.pdb
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem06QuadraticEquation\obj\Debug\Problem06QuadraticEquation.csprojResolveAssemblyReference.cache
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem06QuadraticEquation\obj\Debug\Problem06QuadraticEquation.exe
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem06QuadraticEquation\obj\Debug\Problem06QuadraticEquation.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem06QuadraticEquation\bin\Debug\Problem06QuadraticEquation.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem06QuadraticEquation\obj\Debug\Problem06QuadraticEquation.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem06QuadraticEquation\obj\Debug\Problem06QuadraticEquation.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem06QuadraticEquation\bin\Debug\Problem06QuadraticEquation.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem06QuadraticEquation\bin\Debug\Problem06QuadraticEquation.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem06QuadraticEquation\obj\Debug\Problem06QuadraticEquation.csprojResolveAssemblyReference.cache

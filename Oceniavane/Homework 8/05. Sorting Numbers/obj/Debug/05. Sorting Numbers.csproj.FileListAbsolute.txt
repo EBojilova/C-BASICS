@@ -1,0 +1,9 @@
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.exe.config
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\05. Sorting Numbers\obj\Debug\_05.Sorting_Numbers.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\05. Sorting Numbers\obj\Debug\_05.Sorting_Numbers.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\05. Sorting Numbers\obj\Debug\05. Sorting Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\05. Sorting Numbers\obj\Debug\_05.Sorting_Numbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\05. Sorting Numbers\obj\Debug\_05.Sorting_Numbers.pdb

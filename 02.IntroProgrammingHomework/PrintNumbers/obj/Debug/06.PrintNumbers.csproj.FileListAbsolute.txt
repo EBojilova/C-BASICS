@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\PrintNumbers\obj\Debug\06.PrintNumbers.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

@@ -1,0 +1,9 @@
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\12. Count of Names\bin\Debug\_12.Count_of_Names.exe.config
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\12. Count of Names\bin\Debug\_12.Count_of_Names.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\12. Count of Names\bin\Debug\_12.Count_of_Names.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\12. Count of Names\obj\Debug\12. Count of Names.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\12. Count of Names\obj\Debug\_12.Count_of_Names.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\12. Count of Names\obj\Debug\_12.Count_of_Names.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\12. Count of Names\bin\Debug\_12.Count_of_Names.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\12. Count of Names\obj\Debug\_12.Count_of_Names.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\12. Count of Names\obj\Debug\_12.Count_of_Names.pdb

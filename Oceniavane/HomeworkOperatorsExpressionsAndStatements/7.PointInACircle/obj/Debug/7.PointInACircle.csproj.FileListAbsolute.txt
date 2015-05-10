@@ -1,0 +1,8 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\7.PointInACircle\bin\Debug\7.PointInACircle.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\7.PointInACircle\bin\Debug\7.PointInACircle.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\7.PointInACircle\bin\Debug\7.PointInACircle.pdb
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\7.PointInACircle\obj\Debug\7.PointInACircle.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\7.PointInACircle\obj\Debug\7.PointInACircle.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\7.PointInACircle\bin\Debug\7.PointInACircle.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\7.PointInACircle\obj\Debug\7.PointInACircle.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\7.PointInACircle\obj\Debug\7.PointInACircle.pdb

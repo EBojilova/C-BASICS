@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Plain\bin\Debug\Plain.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Plain\bin\Debug\Plain.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Plain\bin\Debug\Plain.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Plain\obj\Debug\Plane.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Plain\obj\Debug\Plain.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Plain\obj\Debug\Plain.pdb

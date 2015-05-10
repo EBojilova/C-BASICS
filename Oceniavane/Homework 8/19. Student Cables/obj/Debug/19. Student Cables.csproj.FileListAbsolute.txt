@@ -1,0 +1,9 @@
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\19. Student Cables\bin\Debug\_19.Student_Cables.exe.config
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\19. Student Cables\bin\Debug\_19.Student_Cables.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\19. Student Cables\bin\Debug\_19.Student_Cables.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\19. Student Cables\obj\Debug\19. Student Cables.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\19. Student Cables\obj\Debug\_19.Student_Cables.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\19. Student Cables\obj\Debug\_19.Student_Cables.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\19. Student Cables\bin\Debug\_19.Student_Cables.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\19. Student Cables\obj\Debug\_19.Student_Cables.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\19. Student Cables\obj\Debug\_19.Student_Cables.pdb

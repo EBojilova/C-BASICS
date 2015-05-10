@@ -1,0 +1,8 @@
+C:\Users\Venci\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe.config
+C:\Users\Venci\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe
+C:\Users\Venci\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.pdb
+C:\Users\Venci\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.exe
+C:\Users\Venci\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Intro-Programming-Homework\Intro-Programming-Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Intro-Programming-Homework\Intro-Programming-Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Intro-Programming-Homework\Intro-Programming-Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.pdb

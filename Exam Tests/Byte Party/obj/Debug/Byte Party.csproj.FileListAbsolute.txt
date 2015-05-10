@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Byte Party\bin\Debug\Byte Party.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Byte Party\bin\Debug\Byte Party.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Byte Party\bin\Debug\Byte Party.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Byte Party\obj\Debug\Byte Party.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Byte Party\obj\Debug\Byte Party.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Byte Party\obj\Debug\Byte Party.pdb

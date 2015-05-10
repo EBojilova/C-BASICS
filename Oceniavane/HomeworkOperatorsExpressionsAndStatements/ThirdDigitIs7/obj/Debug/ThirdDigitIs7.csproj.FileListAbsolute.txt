@@ -1,0 +1,6 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.pdb
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.csprojResolveAssemblyReference.cache
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.pdb

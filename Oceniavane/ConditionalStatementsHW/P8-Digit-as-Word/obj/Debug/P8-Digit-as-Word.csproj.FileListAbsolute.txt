@@ -1,0 +1,8 @@
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P8-Digit-as-Word\bin\Debug\P8-Digit-as-Word.exe.config
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P8-Digit-as-Word\bin\Debug\P8-Digit-as-Word.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P8-Digit-as-Word\bin\Debug\P8-Digit-as-Word.pdb
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P8-Digit-as-Word\obj\Debug\P8-Digit-as-Word.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P8-Digit-as-Word\obj\Debug\P8-Digit-as-Word.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P8-Digit-as-Word\bin\Debug\P8-Digit-as-Word.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P8-Digit-as-Word\obj\Debug\P8-Digit-as-Word.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P8-Digit-as-Word\obj\Debug\P8-Digit-as-Word.pdb

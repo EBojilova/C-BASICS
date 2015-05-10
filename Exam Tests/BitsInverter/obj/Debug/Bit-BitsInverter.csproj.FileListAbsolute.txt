@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsInverter\bin\Debug\BitsInverter.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsInverter\bin\Debug\BitsInverter.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsInverter\bin\Debug\BitsInverter.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsInverter\obj\Debug\Bit-BitsInverter.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsInverter\obj\Debug\BitsInverter.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsInverter\obj\Debug\BitsInverter.pdb

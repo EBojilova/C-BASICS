@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\DreamItem\bin\Debug\DreamItem.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\DreamItem\bin\Debug\DreamItem.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\DreamItem\bin\Debug\DreamItem.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\DreamItem\obj\Debug\DreamItem.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\DreamItem\obj\Debug\DreamItem.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\DreamItem\obj\Debug\DreamItem.pdb

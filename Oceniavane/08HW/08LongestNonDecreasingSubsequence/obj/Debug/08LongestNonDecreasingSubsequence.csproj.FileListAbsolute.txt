@@ -1,0 +1,2 @@
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\08LongestNonDecreasingSubsequence\bin\Debug\08LongestNonDecreasingSubsequence.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\08LongestNonDecreasingSubsequence\bin\Debug\08LongestNonDecreasingSubsequence.exe.config

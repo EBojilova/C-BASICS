@@ -1,0 +1,12 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\LoopsHomework\PrintADeck\bin\Debug\PrintADeck.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\LoopsHomework\PrintADeck\obj\Debug\04.PrintADeck.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\LoopsHomework\PrintADeck\bin\Debug\PrintADeck.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\LoopsHomework\PrintADeck\bin\Debug\PrintADeck.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\LoopsHomework\PrintADeck\obj\Debug\PrintADeck.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\LoopsHomework\PrintADeck\obj\Debug\PrintADeck.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\PrintADeck\bin\Debug\PrintADeck.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\PrintADeck\obj\Debug\PrintADeck.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\PrintADeck\obj\Debug\PrintADeck.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\PrintADeck\bin\Debug\PrintADeck.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\PrintADeck\bin\Debug\PrintADeck.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\PrintADeck\obj\Debug\04.PrintADeck.csprojResolveAssemblyReference.cache

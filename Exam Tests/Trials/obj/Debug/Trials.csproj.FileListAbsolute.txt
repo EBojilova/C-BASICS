@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Trials\bin\Debug\Trials.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Trials\bin\Debug\Trials.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Trials\bin\Debug\Trials.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Trials\obj\Debug\Trials.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Trials\obj\Debug\Trials.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Trials\obj\Debug\Trials.pdb

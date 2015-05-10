@@ -1,0 +1,12 @@
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\20. Programmer DNA\bin\Debug\_20.Programmer_DNA.exe.config
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\20. Programmer DNA\bin\Debug\_20.Programmer_DNA.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\20. Programmer DNA\bin\Debug\_20.Programmer_DNA.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\20. Programmer DNA\obj\Debug\20. Programmer DNA.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\20. Programmer DNA\obj\Debug\_20.Programmer_DNA.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\20. Programmer DNA\obj\Debug\_20.Programmer_DNA.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\20. Programmer DNA\bin\Debug\_20.Programmer_DNA.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\20. Programmer DNA\obj\Debug\_20.Programmer_DNA.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\20. Programmer DNA\obj\Debug\_20.Programmer_DNA.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\20. Programmer DNA\bin\Debug\_20.Programmer_DNA.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\20. Programmer DNA\bin\Debug\_20.Programmer_DNA.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\20. Programmer DNA\obj\Debug\20. Programmer DNA.csprojResolveAssemblyReference.cache

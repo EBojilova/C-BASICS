@@ -1,0 +1,6 @@
+D:\Stuff\Software University\Домашни\Loops\09Matrix\bin\Debug\09Matrix.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\09Matrix\bin\Debug\09Matrix.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\09Matrix\bin\Debug\09Matrix.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\09Matrix\bin\Debug\09Matrix.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\09Matrix\obj\Debug\09Matrix.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\09Matrix\obj\Debug\09Matrix.pdb

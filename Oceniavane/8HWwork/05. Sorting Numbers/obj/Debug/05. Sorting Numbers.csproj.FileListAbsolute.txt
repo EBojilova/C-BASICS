@@ -1,0 +1,12 @@
+D:\Dropbox\C# Basics\8. CSharp Advanced Topics 1\01. Sorting Numbers\bin\Debug\_08.CSharp_Advanced_Topics_1.exe.config
+D:\Dropbox\C# Basics\8. CSharp Advanced Topics 1\01. Sorting Numbers\obj\Debug\_08.CSharp_Advanced_Topics_1.exe
+D:\Dropbox\C# Basics\8. CSharp Advanced Topics 1\01. Sorting Numbers\obj\Debug\_08.CSharp_Advanced_Topics_1.pdb
+D:\Dropbox\C# Basics\8. CSharp Advanced Topics 1\01. Sorting Numbers\bin\Debug\_08.CSharp_Advanced_Topics_1.exe
+D:\Dropbox\C# Basics\8. CSharp Advanced Topics 1\01. Sorting Numbers\bin\Debug\_08.CSharp_Advanced_Topics_1.pdb
+D:\Dropbox\C# Basics\8. CSharp Advanced Topics 1\01. Sorting Numbers\obj\Debug\05. Sorting Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\05. Sorting Numbers\bin\Debug\_08.CSharp_Advanced_Topics_1.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\05. Sorting Numbers\obj\Debug\_08.CSharp_Advanced_Topics_1.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\05. Sorting Numbers\obj\Debug\_08.CSharp_Advanced_Topics_1.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBasics\Oceniavane\8HWwork\05. Sorting Numbers\bin\Debug\_08.CSharp_Advanced_Topics_1.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBasics\Oceniavane\8HWwork\05. Sorting Numbers\obj\Debug\_08.CSharp_Advanced_Topics_1.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBasics\Oceniavane\8HWwork\05. Sorting Numbers\obj\Debug\_08.CSharp_Advanced_Topics_1.pdb

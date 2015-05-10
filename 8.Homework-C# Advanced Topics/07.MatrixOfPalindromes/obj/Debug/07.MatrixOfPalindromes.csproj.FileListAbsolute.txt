@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\07.MatrixOfPalindromes\bin\Debug\03.MatrixOfPalindromes.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\07.MatrixOfPalindromes\bin\Debug\03.MatrixOfPalindromes.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\07.MatrixOfPalindromes\bin\Debug\03.MatrixOfPalindromes.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\07.MatrixOfPalindromes\obj\Debug\03.MatrixOfPalindromes.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\07.MatrixOfPalindromes\obj\Debug\03.MatrixOfPalindromes.pdb

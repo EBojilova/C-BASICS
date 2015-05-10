@@ -1,0 +1,4 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\HappyNumbers\bin\Debug\HappyNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\HappyNumbers\bin\Debug\HappyNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\HappyNumbers\obj\Debug\HappyNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\HappyNumbers\obj\Debug\HappyNumbers.pdb

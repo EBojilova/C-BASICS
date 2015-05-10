@@ -1,0 +1,8 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\StringAndObjects\bin\Debug\StringAndObjects.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\StringAndObjects\bin\Debug\StringAndObjects.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\StringAndObjects\bin\Debug\StringAndObjects.pdb
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\StringAndObjects\obj\Debug\StringAndObjects.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\StringAndObjects\obj\Debug\StringAndObjects.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\StringAndObjects\bin\Debug\StringAndObjects.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\StringAndObjects\obj\Debug\StringAndObjects.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\StringAndObjects\obj\Debug\StringAndObjects.pdb

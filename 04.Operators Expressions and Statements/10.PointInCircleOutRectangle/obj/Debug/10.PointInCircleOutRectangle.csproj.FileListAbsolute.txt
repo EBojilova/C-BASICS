@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\10.PointInCircleOutRectangle\bin\Debug\10.PointInCircleOutRectangle.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\10.PointInCircleOutRectangle\bin\Debug\10.PointInCircleOutRectangle.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\10.PointInCircleOutRectangle\bin\Debug\10.PointInCircleOutRectangle.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\10.PointInCircleOutRectangle\obj\Debug\10.PointInCircleOutRectangle.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\10.PointInCircleOutRectangle\obj\Debug\10.PointInCircleOutRectangle.pdb

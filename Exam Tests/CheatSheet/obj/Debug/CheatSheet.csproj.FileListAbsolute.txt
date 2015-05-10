@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CheatSheet\bin\Debug\CheatSheet.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CheatSheet\bin\Debug\CheatSheet.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CheatSheet\bin\Debug\CheatSheet.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CheatSheet\obj\Debug\CheatSheet.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CheatSheet\obj\Debug\CheatSheet.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CheatSheet\obj\Debug\CheatSheet.pdb

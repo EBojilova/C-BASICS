@@ -1,0 +1,2 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe.config

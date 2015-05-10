@@ -1,0 +1,6 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb

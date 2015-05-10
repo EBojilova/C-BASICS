@@ -1,0 +1,8 @@
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\07. Matrix of Palindromes\bin\Debug\_07.Matrix_of_Palindromes.exe.config
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\07. Matrix of Palindromes\bin\Debug\_07.Matrix_of_Palindromes.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\07. Matrix of Palindromes\bin\Debug\_07.Matrix_of_Palindromes.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\07. Matrix of Palindromes\obj\Debug\_07.Matrix_of_Palindromes.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\07. Matrix of Palindromes\obj\Debug\_07.Matrix_of_Palindromes.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\07. Matrix of Palindromes\bin\Debug\_07.Matrix_of_Palindromes.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\07. Matrix of Palindromes\obj\Debug\_07.Matrix_of_Palindromes.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\07. Matrix of Palindromes\obj\Debug\_07.Matrix_of_Palindromes.pdb

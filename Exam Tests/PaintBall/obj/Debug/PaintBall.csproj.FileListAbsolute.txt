@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\PaintBall\bin\Debug\PaintBall.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\PaintBall\bin\Debug\PaintBall.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\PaintBall\bin\Debug\PaintBall.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\PaintBall\obj\Debug\PaintBall.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\PaintBall\obj\Debug\PaintBall.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\PaintBall\obj\Debug\PaintBall.pdb

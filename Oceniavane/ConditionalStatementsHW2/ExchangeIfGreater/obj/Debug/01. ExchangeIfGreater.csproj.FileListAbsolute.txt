@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\ExchangeIfGreater\obj\Debug\01. ExchangeIfGreater.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.pdb

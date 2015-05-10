@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\04.Operators Expressions and Statements\02.GravitationMoon\bin\Debug\02.GravitationMoon.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\04.Operators Expressions and Statements\02.GravitationMoon\bin\Debug\02.GravitationMoon.exe
+c:\users\elena\documents\visual studio 2013\Projects\04.Operators Expressions and Statements\02.GravitationMoon\bin\Debug\02.GravitationMoon.pdb
+c:\users\elena\documents\visual studio 2013\Projects\04.Operators Expressions and Statements\02.GravitationMoon\obj\Debug\02.GravitationMoon.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\04.Operators Expressions and Statements\02.GravitationMoon\obj\Debug\02.GravitationMoon.exe
+c:\users\elena\documents\visual studio 2013\Projects\04.Operators Expressions and Statements\02.GravitationMoon\obj\Debug\02.GravitationMoon.pdb

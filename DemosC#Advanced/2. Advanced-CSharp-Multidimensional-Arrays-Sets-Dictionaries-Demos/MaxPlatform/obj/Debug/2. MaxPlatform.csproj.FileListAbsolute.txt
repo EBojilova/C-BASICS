@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\DemosC#Advanced\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\MaxPlatform\bin\Debug\MaxPlatform.exe
+C:\Users\Elena\Documents\Visual Studio 2013\DemosC#Advanced\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\MaxPlatform\bin\Debug\MaxPlatform.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\DemosC#Advanced\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\MaxPlatform\obj\Debug\2. MaxPlatform.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\DemosC#Advanced\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\MaxPlatform\obj\Debug\MaxPlatform.exe
+C:\Users\Elena\Documents\Visual Studio 2013\DemosC#Advanced\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\MaxPlatform\obj\Debug\MaxPlatform.pdb

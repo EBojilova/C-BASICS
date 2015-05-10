@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\20.BitsUp\bin\Debug\20.BitsUp.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\20.BitsUp\bin\Debug\20.BitsUp.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\20.BitsUp\bin\Debug\20.BitsUp.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\20.BitsUp\obj\Debug\20.BitsUp.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\20.BitsUp\obj\Debug\20.BitsUp.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\20.BitsUp\obj\Debug\20.BitsUp.pdb

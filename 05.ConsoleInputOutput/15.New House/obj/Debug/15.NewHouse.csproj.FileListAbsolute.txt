@@ -1,0 +1,9 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\15.New House\bin\Debug\15.New House.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\15.New House\bin\Debug\15.New House.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\15.New House\bin\Debug\15.New House.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\15.New House\obj\Debug\15.NewHouse.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\15.New House\obj\Debug\15.New House.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\15.New House\obj\Debug\15.New House.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\15.New House\bin\Debug\15.New House.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\15.New House\obj\Debug\15.New House.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\15.New House\obj\Debug\15.New House.pdb

@@ -1,0 +1,8 @@
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\DecToHexadec\bin\Debug\DecToHexadec.exe.config
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\DecToHexadec\bin\Debug\DecToHexadec.exe
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\DecToHexadec\bin\Debug\DecToHexadec.pdb
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\DecToHexadec\obj\Debug\DecToHexadec.exe
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\DecToHexadec\obj\Debug\DecToHexadec.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\DecToHexadec\bin\Debug\DecToHexadec.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\DecToHexadec\obj\Debug\DecToHexadec.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\DecToHexadec\obj\Debug\DecToHexadec.pdb

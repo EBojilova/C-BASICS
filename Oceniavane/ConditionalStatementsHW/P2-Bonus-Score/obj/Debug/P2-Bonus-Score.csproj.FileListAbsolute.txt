@@ -1,0 +1,8 @@
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P2-Bonus-Score\bin\Debug\P2-Bonus-Score.exe.config
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P2-Bonus-Score\bin\Debug\P2-Bonus-Score.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P2-Bonus-Score\bin\Debug\P2-Bonus-Score.pdb
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P2-Bonus-Score\obj\Debug\P2-Bonus-Score.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P2-Bonus-Score\obj\Debug\P2-Bonus-Score.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P2-Bonus-Score\bin\Debug\P2-Bonus-Score.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P2-Bonus-Score\obj\Debug\P2-Bonus-Score.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P2-Bonus-Score\obj\Debug\P2-Bonus-Score.pdb

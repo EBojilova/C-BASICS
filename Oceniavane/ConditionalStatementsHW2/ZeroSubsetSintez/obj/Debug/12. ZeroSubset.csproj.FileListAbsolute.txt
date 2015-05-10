@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\ZeroSubsetSintez\bin\Debug\ZeroSubsetSintez.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\ZeroSubsetSintez\bin\Debug\ZeroSubsetSintez.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\ZeroSubsetSintez\bin\Debug\ZeroSubsetSintez.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\ZeroSubsetSintez\obj\Debug\ZeroSubsetSintez.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\ZeroSubsetSintez\obj\Debug\ZeroSubsetSintez.pdb

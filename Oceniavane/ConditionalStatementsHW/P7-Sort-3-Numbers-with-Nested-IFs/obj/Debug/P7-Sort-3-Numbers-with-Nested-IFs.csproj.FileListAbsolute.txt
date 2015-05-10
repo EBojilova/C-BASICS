@@ -1,0 +1,8 @@
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P7-Sort-3-Numbers-with-Nested-IFs\bin\Debug\P7-Sort-3-Numbers-with-Nested-IFs.exe.config
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P7-Sort-3-Numbers-with-Nested-IFs\bin\Debug\P7-Sort-3-Numbers-with-Nested-IFs.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P7-Sort-3-Numbers-with-Nested-IFs\bin\Debug\P7-Sort-3-Numbers-with-Nested-IFs.pdb
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P7-Sort-3-Numbers-with-Nested-IFs\obj\Debug\P7-Sort-3-Numbers-with-Nested-IFs.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P7-Sort-3-Numbers-with-Nested-IFs\obj\Debug\P7-Sort-3-Numbers-with-Nested-IFs.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P7-Sort-3-Numbers-with-Nested-IFs\bin\Debug\P7-Sort-3-Numbers-with-Nested-IFs.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P7-Sort-3-Numbers-with-Nested-IFs\obj\Debug\P7-Sort-3-Numbers-with-Nested-IFs.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P7-Sort-3-Numbers-with-Nested-IFs\obj\Debug\P7-Sort-3-Numbers-with-Nested-IFs.pdb

@@ -1,0 +1,9 @@
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\04. NumberCompare\bin\Debug\_04.NumberCompare.exe.config
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\04. NumberCompare\bin\Debug\_04.NumberCompare.exe
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\04. NumberCompare\bin\Debug\_04.NumberCompare.pdb
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\04. NumberCompare\obj\Debug\04. NumberCompare.csprojResolveAssemblyReference.cache
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\04. NumberCompare\obj\Debug\_04.NumberCompare.exe
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\04. NumberCompare\obj\Debug\_04.NumberCompare.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\04. NumberCompare\bin\Debug\_04.NumberCompare.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\04. NumberCompare\obj\Debug\_04.NumberCompare.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\04. NumberCompare\obj\Debug\_04.NumberCompare.pdb

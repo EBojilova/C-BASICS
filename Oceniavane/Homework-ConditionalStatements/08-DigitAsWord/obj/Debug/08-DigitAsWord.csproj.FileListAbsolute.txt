@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\08-DigitAsWord\bin\Debug\08-DigitAsWord.exe.config
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\08-DigitAsWord\bin\Debug\08-DigitAsWord.exe
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\08-DigitAsWord\bin\Debug\08-DigitAsWord.pdb
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\08-DigitAsWord\obj\Debug\08-DigitAsWord.exe
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\08-DigitAsWord\obj\Debug\08-DigitAsWord.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\08-DigitAsWord\bin\Debug\08-DigitAsWord.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\08-DigitAsWord\obj\Debug\08-DigitAsWord.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\08-DigitAsWord\obj\Debug\08-DigitAsWord.pdb

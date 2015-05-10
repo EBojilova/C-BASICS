@@ -1,0 +1,9 @@
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P3-Check-for-a-Play-Card\bin\Debug\P3-Check-for-a-Play-Card.exe.config
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P3-Check-for-a-Play-Card\bin\Debug\P3-Check-for-a-Play-Card.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P3-Check-for-a-Play-Card\bin\Debug\P3-Check-for-a-Play-Card.pdb
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P3-Check-for-a-Play-Card\obj\Debug\P3-Check-for-a-Play-Card.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P3-Check-for-a-Play-Card\obj\Debug\P3-Check-for-a-Play-Card.pdb
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P3-Check-for-a-Play-Card\obj\Debug\P3-Check-for-a-Play-Card.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P3-Check-for-a-Play-Card\bin\Debug\P3-Check-for-a-Play-Card.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P3-Check-for-a-Play-Card\obj\Debug\P3-Check-for-a-Play-Card.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P3-Check-for-a-Play-Card\obj\Debug\P3-Check-for-a-Play-Card.pdb

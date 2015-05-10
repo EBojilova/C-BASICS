@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\09.MatrixNumbers\bin\Debug\09.MatrixNumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\09.MatrixNumbers\bin\Debug\09.MatrixNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\09.MatrixNumbers\bin\Debug\09.MatrixNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\09.MatrixNumbers\obj\Debug\09.MatrixNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\09.MatrixNumbers\obj\Debug\09.MatrixNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\09.MatrixNumbers\obj\Debug\09.MatrixNumbers.pdb

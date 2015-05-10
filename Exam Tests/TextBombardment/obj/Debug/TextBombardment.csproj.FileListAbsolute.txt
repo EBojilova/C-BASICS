@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\TextBombardment\bin\Debug\TextBombardment.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\TextBombardment\bin\Debug\TextBombardment.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\TextBombardment\bin\Debug\TextBombardment.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\TextBombardment\obj\Debug\TextBombardment.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\TextBombardment\obj\Debug\TextBombardment.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\TextBombardment\obj\Debug\TextBombardment.pdb

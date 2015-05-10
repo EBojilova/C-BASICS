@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\21.BitSifting\bin\Debug\21.BitSifting.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\21.BitSifting\bin\Debug\21.BitSifting.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\21.BitSifting\bin\Debug\21.BitSifting.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\21.BitSifting\obj\Debug\21.BitSifting.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\21.BitSifting\obj\Debug\21.BitSifting.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\21.BitSifting\obj\Debug\21.BitSifting.pdb

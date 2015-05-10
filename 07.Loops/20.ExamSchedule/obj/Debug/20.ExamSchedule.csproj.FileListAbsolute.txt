@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\20.ExamSchedule\bin\Debug\20.ExamSchedule.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\20.ExamSchedule\bin\Debug\20.ExamSchedule.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\20.ExamSchedule\bin\Debug\20.ExamSchedule.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\20.ExamSchedule\obj\Debug\20.ExamSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\20.ExamSchedule\obj\Debug\20.ExamSchedule.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\20.ExamSchedule\obj\Debug\20.ExamSchedule.pdb

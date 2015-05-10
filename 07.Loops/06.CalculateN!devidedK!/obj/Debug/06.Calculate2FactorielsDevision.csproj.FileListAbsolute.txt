@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\06.CalculateN!devidedK!\bin\Debug\06.CalculateN!devidedK!.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\06.CalculateN!devidedK!\bin\Debug\06.CalculateN!devidedK!.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\06.CalculateN!devidedK!\bin\Debug\06.CalculateN!devidedK!.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\06.CalculateN!devidedK!\obj\Debug\06.Calculate2FactorielsDevision.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\06.CalculateN!devidedK!\obj\Debug\06.CalculateN!devidedK!.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\06.CalculateN!devidedK!\obj\Debug\06.CalculateN!devidedK!.pdb

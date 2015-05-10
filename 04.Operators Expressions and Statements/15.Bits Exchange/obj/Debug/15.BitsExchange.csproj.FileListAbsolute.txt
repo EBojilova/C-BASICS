@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\15.Bits Exchange\bin\Debug\15.Bits Exchange.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\15.Bits Exchange\bin\Debug\15.Bits Exchange.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\15.Bits Exchange\bin\Debug\15.Bits Exchange.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\15.Bits Exchange\obj\Debug\15.BitsExchange.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\15.Bits Exchange\obj\Debug\15.Bits Exchange.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\15.Bits Exchange\obj\Debug\15.Bits Exchange.pdb

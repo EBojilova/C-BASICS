@@ -1,0 +1,10 @@
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\05.FormmatingNumbers\bin\Debug\05.FormmatingNumbers.exe.config
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\05.FormmatingNumbers\bin\Debug\05.FormmatingNumbers.exe
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\05.FormmatingNumbers\bin\Debug\05.FormmatingNumbers.pdb
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\05.FormmatingNumbers\obj\Debug\05.FormmatingNumbers.exe
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\05.FormmatingNumbers\obj\Debug\05.FormmatingNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\05.FormmatingNumbers\bin\Debug\05.FormmatingNumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\05.FormmatingNumbers\obj\Debug\05.FormmatingNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\05.FormmatingNumbers\obj\Debug\05.FormmatingNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\05.FormmatingNumbers\bin\Debug\05.FormmatingNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\05.FormmatingNumbers\bin\Debug\05.FormmatingNumbers.pdb

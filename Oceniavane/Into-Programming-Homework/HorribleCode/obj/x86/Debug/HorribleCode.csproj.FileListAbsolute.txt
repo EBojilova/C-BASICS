@@ -1,0 +1,4 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\HorribleCode\obj\x86\Debug\HorribleCode.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\HorribleCode\obj\x86\Debug\HorribleCode.pdb

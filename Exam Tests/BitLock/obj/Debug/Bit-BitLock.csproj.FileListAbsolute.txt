@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitLock\bin\Debug\BitLock.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitLock\obj\Debug\BitLock.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitLock\obj\Debug\BitLock.pdb

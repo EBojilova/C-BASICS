@@ -1,0 +1,12 @@
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\12.FallingRocksGame\bin\Debug\12.FallingRocksGame.exe.config
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\12.FallingRocksGame\bin\Debug\12.FallingRocksGame.exe
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\12.FallingRocksGame\bin\Debug\12.FallingRocksGame.pdb
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\12.FallingRocksGame\obj\Debug\12.FallingRocksGame.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\12.FallingRocksGame\obj\Debug\12.FallingRocksGame.exe
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\12.FallingRocksGame\obj\Debug\12.FallingRocksGame.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\12.FallingRocksGame\bin\Debug\12.FallingRocksGame.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\12.FallingRocksGame\obj\Debug\12.FallingRocksGame.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\12.FallingRocksGame\obj\Debug\12.FallingRocksGame.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\12.FallingRocksGame\bin\Debug\12.FallingRocksGame.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\12.FallingRocksGame\bin\Debug\12.FallingRocksGame.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\12.FallingRocksGame\obj\Debug\12.FallingRocksGame.csprojResolveAssemblyReference.cache

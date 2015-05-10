@@ -1,0 +1,11 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\10.IsInCircleOutOfRectangel\bin\Debug\10.IsInCircleOutOfRectangel.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\10.IsInCircleOutOfRectangel\bin\Debug\10.IsInCircleOutOfRectangel.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\10.IsInCircleOutOfRectangel\bin\Debug\10.IsInCircleOutOfRectangel.pdb
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\10.IsInCircleOutOfRectangel\obj\Debug\10.IsInCircleOutOfRectangel.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\10.IsInCircleOutOfRectangel\obj\Debug\10.IsInCircleOutOfRectangel.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\10.IsInCircleOutOfRectangel\bin\Debug\10.IsInCircleOutOfRectangel.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\10.IsInCircleOutOfRectangel\obj\Debug\10.IsInCircleOutOfRectangel.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\10.IsInCircleOutOfRectangel\obj\Debug\10.IsInCircleOutOfRectangel.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\10.IsInCircleOutOfRectangel\bin\Debug\10.IsInCircleOutOfRectangel.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\10.IsInCircleOutOfRectangel\bin\Debug\10.IsInCircleOutOfRectangel.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\10.IsInCircleOutOfRectangel\obj\Debug\10.IsInCircleOutOfRectangle.csprojResolveAssemblyReference.cache

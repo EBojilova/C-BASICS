@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\17.CatchBits\bin\Debug\17.CatchBits.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\17.CatchBits\bin\Debug\17.CatchBits.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\17.CatchBits\bin\Debug\17.CatchBits.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\17.CatchBits\obj\Debug\17.CatchBits.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\17.CatchBits\obj\Debug\17.CatchBits.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\17.CatchBits\obj\Debug\17.CatchBits.csprojResolveAssemblyReference.cache

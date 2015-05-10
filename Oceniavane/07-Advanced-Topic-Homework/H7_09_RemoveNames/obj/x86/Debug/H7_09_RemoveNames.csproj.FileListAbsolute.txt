@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_09_RemoveNames\bin\Debug\H7_09_RemoveNames.exe
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_09_RemoveNames\bin\Debug\H7_09_RemoveNames.pdb
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_09_RemoveNames\obj\x86\Debug\H7_09_RemoveNames.exe
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_09_RemoveNames\obj\x86\Debug\H7_09_RemoveNames.pdb

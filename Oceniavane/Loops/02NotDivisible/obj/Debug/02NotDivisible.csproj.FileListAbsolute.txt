@@ -1,0 +1,12 @@
+D:\Stuff\Software University\Домашни\Loops\02NotDivisible\bin\Debug\02NotDivisible.exe.config
+D:\Stuff\Software University\Домашни\Loops\02NotDivisible\obj\Debug\02NotDivisible.csprojResolveAssemblyReference.cache
+D:\Stuff\Software University\Домашни\Loops\02NotDivisible\bin\Debug\02NotDivisible.exe
+D:\Stuff\Software University\Домашни\Loops\02NotDivisible\bin\Debug\02NotDivisible.pdb
+D:\Stuff\Software University\Домашни\Loops\02NotDivisible\obj\Debug\02NotDivisible.exe
+D:\Stuff\Software University\Домашни\Loops\02NotDivisible\obj\Debug\02NotDivisible.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\02NotDivisible\bin\Debug\02NotDivisible.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\02NotDivisible\obj\Debug\02NotDivisible.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\02NotDivisible\obj\Debug\02NotDivisible.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\02NotDivisible\bin\Debug\02NotDivisible.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\02NotDivisible\bin\Debug\02NotDivisible.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\02NotDivisible\obj\Debug\02NotDivisible.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\bi0game\documents\visual studio 2013\Projects\Collections-Demos\04.ListOfIntegers\bin\Debug\04.ListOfIntegers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\04.ListOfIntegers\bin\Debug\04.ListOfIntegers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\04.ListOfIntegers\bin\Debug\04.ListOfIntegers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\04.ListOfIntegers\bin\Debug\04.ListOfIntegers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\04.ListOfIntegers\obj\Debug\04.ListOfIntegers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\04.ListOfIntegers\obj\Debug\04.ListOfIntegers.pdb

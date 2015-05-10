@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\07.QuotesInStrings\bin\Release\07.QuotesInStrings.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\07.QuotesInStrings\bin\Release\07.QuotesInStrings.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\07.QuotesInStrings\bin\Release\07.QuotesInStrings.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\07.QuotesInStrings\obj\Release\07.QuotesInStrings.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\07.QuotesInStrings\obj\Release\07.QuotesInStrings.pdb

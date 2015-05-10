@@ -1,0 +1,23 @@
+﻿<Properties>
+  <StartupItems>
+    <String>Into-Programming-Homework/Hello c# .csproj</String>
+  </StartupItems>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrintSequance/Print Sequence.cs">
+    <Files>
+      <File FileName="Into-Programming-Homework/HelloWorld.cs" Line="22" Column="22" />
+      <File FileName="Into-Programming-Homework/Day1/Print a Sequence.cs" Line="1" Column="1" />
+      <File FileName="Into-Programming-Homework/Day1/Prime Number Check.cs" Line="1" Column="1" />
+      <File FileName="PrintYourName/PrintMyName.cs" Line="46" Column="46" />
+      <File FileName="PrintNumbers/PrintNumber.cs" Line="39" Column="39" />
+      <File FileName="HorribleCode/HorribleCode.cs" Line="2" Column="2" />
+      <File FileName="Into-Programming-Homework/Day1/Print Numbers.cs" Line="1" Column="1" />
+      <File FileName="PrintLongSequence/Print Long Sequence.cs" Line="21" Column="21" />
+      <File FileName="PrintSequance/Print Sequence.cs" Line="21" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

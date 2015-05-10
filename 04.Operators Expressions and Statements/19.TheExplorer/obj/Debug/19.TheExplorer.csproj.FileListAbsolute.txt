@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\19.TheExplorer\bin\Debug\19.TheExplorer.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\19.TheExplorer\bin\Debug\19.TheExplorer.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\19.TheExplorer\bin\Debug\19.TheExplorer.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\19.TheExplorer\obj\Debug\19.TheExplorer.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\19.TheExplorer\obj\Debug\19.TheExplorer.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\19.TheExplorer\obj\Debug\19.TheExplorer.pdb

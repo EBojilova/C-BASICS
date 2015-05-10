@@ -1,0 +1,12 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\11.Numbers IntervalDividableGivenNumber\bin\Debug\11.Numbers IntervalDividableGivenNumber.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\11.Numbers IntervalDividableGivenNumber\bin\Debug\11.Numbers IntervalDividableGivenNumber.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\11.Numbers IntervalDividableGivenNumber\bin\Debug\11.Numbers IntervalDividableGivenNumber.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\11.Numbers IntervalDividableGivenNumber\obj\Debug\11.Numbers IntervalDividableGivenNumber.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\11.Numbers IntervalDividableGivenNumber\obj\Debug\11.Numbers IntervalDividableGivenNumber.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\11.Numbers IntervalDividableGivenNumber\obj\Debug\11.Numbers IntervalDividableGivenNumber.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\11.Numbers IntervalDividableGivenNumber\bin\Debug\11.Numbers IntervalDividableGivenNumber.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\11.Numbers IntervalDividableGivenNumber\obj\Debug\11.Numbers IntervalDividableGivenNumber.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\11.Numbers IntervalDividableGivenNumber\obj\Debug\11.Numbers IntervalDividableGivenNumber.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\11.Numbers IntervalDividableGivenNumber\bin\Debug\11.Numbers IntervalDividableGivenNumber.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\11.Numbers IntervalDividableGivenNumber\bin\Debug\11.Numbers IntervalDividableGivenNumber.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\11.Numbers IntervalDividableGivenNumber\obj\Debug\11.Numbers IntervalDividableGivenNumber.csprojResolveAssemblyReference.cache

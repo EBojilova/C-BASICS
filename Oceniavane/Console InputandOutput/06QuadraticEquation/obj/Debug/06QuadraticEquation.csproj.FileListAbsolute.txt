@@ -1,0 +1,10 @@
+D:\C#MYPROGRAMING\Console InputandOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe.config
+D:\C#MYPROGRAMING\Console InputandOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe
+D:\C#MYPROGRAMING\Console InputandOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.pdb
+D:\C#MYPROGRAMING\Console InputandOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.exe
+D:\C#MYPROGRAMING\Console InputandOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.pdb

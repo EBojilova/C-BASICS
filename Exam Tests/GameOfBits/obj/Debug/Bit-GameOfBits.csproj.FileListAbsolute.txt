@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\GameOfBits\bin\Debug\GameOfBits.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\GameOfBits\bin\Debug\GameOfBits.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\GameOfBits\bin\Debug\GameOfBits.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\GameOfBits\obj\Debug\Bit-GameOfBits.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\GameOfBits\obj\Debug\GameOfBits.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\GameOfBits\obj\Debug\GameOfBits.pdb

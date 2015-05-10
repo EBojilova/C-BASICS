@@ -1,0 +1,8 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\9.Trapezoids\bin\Debug\9.Trapezoids.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\9.Trapezoids\bin\Debug\9.Trapezoids.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\9.Trapezoids\bin\Debug\9.Trapezoids.pdb
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\9.Trapezoids\obj\Debug\9.Trapezoids.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\9.Trapezoids\obj\Debug\9.Trapezoids.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\9.Trapezoids\bin\Debug\9.Trapezoids.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\9.Trapezoids\obj\Debug\9.Trapezoids.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\9.Trapezoids\obj\Debug\9.Trapezoids.pdb

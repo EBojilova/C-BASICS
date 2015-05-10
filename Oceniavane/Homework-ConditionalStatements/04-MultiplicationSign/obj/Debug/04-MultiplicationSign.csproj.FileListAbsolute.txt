@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\04-MultiplicationSign\bin\Debug\04-MultiplicationSign.exe.config
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\04-MultiplicationSign\obj\Debug\04-MultiplicationSign.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\04-MultiplicationSign\bin\Debug\04-MultiplicationSign.exe
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\04-MultiplicationSign\bin\Debug\04-MultiplicationSign.pdb
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\04-MultiplicationSign\obj\Debug\04-MultiplicationSign.exe
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\04-MultiplicationSign\obj\Debug\04-MultiplicationSign.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\04-MultiplicationSign\bin\Debug\04-MultiplicationSign.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\04-MultiplicationSign\obj\Debug\04-MultiplicationSign.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\04-MultiplicationSign\obj\Debug\04-MultiplicationSign.pdb

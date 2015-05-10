@@ -1,0 +1,10 @@
+D:\C#MYPROGRAMING\Console InputandOutput\08NumbersFromOneToN\bin\Debug\08NumbersFromOneToN.exe.config
+D:\C#MYPROGRAMING\Console InputandOutput\08NumbersFromOneToN\bin\Debug\08NumbersFromOneToN.exe
+D:\C#MYPROGRAMING\Console InputandOutput\08NumbersFromOneToN\bin\Debug\08NumbersFromOneToN.pdb
+D:\C#MYPROGRAMING\Console InputandOutput\08NumbersFromOneToN\obj\Debug\08NumbersFromOneToN.exe
+D:\C#MYPROGRAMING\Console InputandOutput\08NumbersFromOneToN\obj\Debug\08NumbersFromOneToN.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\08NumbersFromOneToN\bin\Debug\08NumbersFromOneToN.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\08NumbersFromOneToN\obj\Debug\08NumbersFromOneToN.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\08NumbersFromOneToN\obj\Debug\08NumbersFromOneToN.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\08NumbersFromOneToN\bin\Debug\08NumbersFromOneToN.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\08NumbersFromOneToN\bin\Debug\08NumbersFromOneToN.pdb

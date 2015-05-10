@@ -1,0 +1,12 @@
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\02. Prime Checker\bin\Debug\_02.Prime_Checker.exe.config
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\02. Prime Checker\bin\Debug\_02.Prime_Checker.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\02. Prime Checker\bin\Debug\_02.Prime_Checker.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\02. Prime Checker\obj\Debug\02. Prime Checker.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\02. Prime Checker\obj\Debug\_02.Prime_Checker.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\02. Prime Checker\obj\Debug\_02.Prime_Checker.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\02. Prime Checker\bin\Debug\_02.Prime_Checker.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\02. Prime Checker\obj\Debug\_02.Prime_Checker.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\02. Prime Checker\obj\Debug\_02.Prime_Checker.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\02. Prime Checker\bin\Debug\_02.Prime_Checker.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\02. Prime Checker\bin\Debug\_02.Prime_Checker.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\02. Prime Checker\obj\Debug\02. Prime Checker.csprojResolveAssemblyReference.cache

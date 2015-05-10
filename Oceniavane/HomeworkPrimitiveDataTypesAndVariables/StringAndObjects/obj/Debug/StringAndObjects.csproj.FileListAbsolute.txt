@@ -1,0 +1,5 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\StringAndObjects\bin\Debug\StringAndObjects.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\StringAndObjects\bin\Debug\StringAndObjects.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\StringAndObjects\bin\Debug\StringAndObjects.pdb
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\StringAndObjects\obj\Debug\StringAndObjects.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\StringAndObjects\obj\Debug\StringAndObjects.pdb

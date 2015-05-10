@@ -1,0 +1,11 @@
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P14-Pairs\bin\Debug\P14-Pairs.exe.config
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P14-Pairs\bin\Debug\P14-Pairs.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P14-Pairs\bin\Debug\P14-Pairs.pdb
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P14-Pairs\obj\Debug\P14-Pairs.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P14-Pairs\obj\Debug\P14-Pairs.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P14-Pairs\bin\Debug\P14-Pairs.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P14-Pairs\obj\Debug\P14-Pairs.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P14-Pairs\obj\Debug\P14-Pairs.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P14-Pairs\bin\Debug\P14-Pairs.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P14-Pairs\bin\Debug\P14-Pairs.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P14-Pairs\obj\Debug\P14-Pairs.csprojResolveAssemblyReference.cache

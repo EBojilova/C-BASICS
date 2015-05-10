@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\05.BooleanVariable\bin\Release\05.BooleanVariable.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\05.BooleanVariable\bin\Release\05.BooleanVariable.exe
+c:\users\elena\documents\visual studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\05.BooleanVariable\bin\Release\05.BooleanVariable.pdb
+c:\users\elena\documents\visual studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\05.BooleanVariable\obj\Release\05.BooleanVariable.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\05.BooleanVariable\obj\Release\05.BooleanVariable.exe
+c:\users\elena\documents\visual studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\05.BooleanVariable\obj\Release\05.BooleanVariable.pdb

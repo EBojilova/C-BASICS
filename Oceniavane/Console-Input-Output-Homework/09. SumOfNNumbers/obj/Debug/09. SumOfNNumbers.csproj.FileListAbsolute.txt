@@ -1,0 +1,9 @@
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.exe.config
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.exe
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.pdb
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09. SumOfNNumbers\obj\Debug\_09.SumOfNNumbers.exe
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09. SumOfNNumbers\obj\Debug\_09.SumOfNNumbers.pdb
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\09. SumOfNNumbers\obj\Debug\09. SumOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\09. SumOfNNumbers\obj\Debug\_09.SumOfNNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\09. SumOfNNumbers\obj\Debug\_09.SumOfNNumbers.pdb

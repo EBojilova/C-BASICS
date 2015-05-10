@@ -1,0 +1,6 @@
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\PhibonacciNumber\bin\Debug\PhibonacciNumber.exe.config
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\PhibonacciNumber\bin\Debug\PhibonacciNumber.exe
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\PhibonacciNumber\bin\Debug\PhibonacciNumber.pdb
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\PhibonacciNumber\obj\Debug\01PhibonacciNumber.csprojResolveAssemblyReference.cache
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\PhibonacciNumber\obj\Debug\PhibonacciNumber.exe
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\PhibonacciNumber\obj\Debug\PhibonacciNumber.pdb

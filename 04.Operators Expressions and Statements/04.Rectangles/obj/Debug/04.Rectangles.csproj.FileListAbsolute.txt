@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\04.Rectangles\bin\Debug\04.Rectangles.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\04.Rectangles\bin\Debug\04.Rectangles.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\04.Rectangles\obj\Debug\04.Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\04.Rectangles\obj\Debug\04.Rectangles.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\04.Rectangles\obj\Debug\04.Rectangles.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem10BeerTime\bin\Debug\Problem10BeerTime.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem10BeerTime\bin\Debug\Problem10BeerTime.exe
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem10BeerTime\bin\Debug\Problem10BeerTime.pdb
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem10BeerTime\obj\Debug\Problem10BeerTime.exe
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem10BeerTime\obj\Debug\Problem10BeerTime.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HW6\Problem10BeerTime\bin\Debug\Problem10BeerTime.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HW6\Problem10BeerTime\obj\Debug\Problem10BeerTime.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HW6\Problem10BeerTime\obj\Debug\Problem10BeerTime.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHW6\Problem10BeerTime\bin\Debug\Problem10BeerTime.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHW6\Problem10BeerTime\obj\Debug\Problem10BeerTime.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHW6\Problem10BeerTime\obj\Debug\Problem10BeerTime.pdb

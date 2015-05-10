@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\05.ThirdDigit7\bin\Debug\05.ThirdDigit7.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\05.ThirdDigit7\bin\Debug\05.ThirdDigit7.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\05.ThirdDigit7\bin\Debug\05.ThirdDigit7.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\05.ThirdDigit7\obj\Debug\05.ThirdDigit7.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\05.ThirdDigit7\obj\Debug\05.ThirdDigit7.pdb

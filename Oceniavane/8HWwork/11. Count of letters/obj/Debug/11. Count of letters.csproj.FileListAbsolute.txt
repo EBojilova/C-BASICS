@@ -1,0 +1,8 @@
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\07. Count of letters\bin\Debug\_07.Count_of_letters.exe.config
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\07. Count of letters\obj\Debug\_07.Count_of_letters.exe
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\07. Count of letters\obj\Debug\_07.Count_of_letters.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\11. Count of letters\bin\Debug\_07.Count_of_letters.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\11. Count of letters\obj\Debug\_07.Count_of_letters.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\11. Count of letters\obj\Debug\_07.Count_of_letters.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\11. Count of letters\bin\Debug\_07.Count_of_letters.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\11. Count of letters\bin\Debug\_07.Count_of_letters.pdb

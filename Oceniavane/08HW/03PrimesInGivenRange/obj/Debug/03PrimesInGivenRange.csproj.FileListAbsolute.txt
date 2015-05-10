@@ -1,0 +1,10 @@
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.exe.config
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.exe
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.pdb
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.exe
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.pdb

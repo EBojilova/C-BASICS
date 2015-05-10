@@ -1,0 +1,7 @@
+D:\Stuff\Software University\Домашни\Loops\10OddEven\bin\Debug\10OddEven.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\10OddEven\bin\Debug\10OddEven.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\10OddEven\bin\Debug\10OddEven.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\10OddEven\bin\Debug\10OddEven.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\10OddEven\obj\Debug\10OddEven.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\10OddEven\obj\Debug\10OddEven.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\10OddEven\obj\Debug\10OddEven.pdb

@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.ConditionalStatements\16.MagicDates\bin\Debug\16.MagicDates.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.ConditionalStatements\16.MagicDates\bin\Debug\16.MagicDates.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.ConditionalStatements\16.MagicDates\bin\Debug\16.MagicDates.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.ConditionalStatements\16.MagicDates\obj\Debug\16.MagicDates.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.ConditionalStatements\16.MagicDates\obj\Debug\16.MagicDates.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.ConditionalStatements\16.MagicDates\obj\Debug\16.MagicDates.pdb

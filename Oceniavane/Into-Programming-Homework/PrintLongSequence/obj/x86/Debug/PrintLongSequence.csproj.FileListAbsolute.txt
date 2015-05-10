@@ -1,0 +1,4 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\PrintLongSequence\obj\x86\Debug\PrintLongSequence.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\PrintLongSequence\obj\x86\Debug\PrintLongSequence.pdb

@@ -1,0 +1,1 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\16.DecimalBinaryNumber\bin\Debug\16.DecimalBinaryNumber.exe.config

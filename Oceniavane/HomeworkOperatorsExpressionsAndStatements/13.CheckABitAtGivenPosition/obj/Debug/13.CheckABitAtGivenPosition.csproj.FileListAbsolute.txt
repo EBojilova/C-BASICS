@@ -1,0 +1,10 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.pdb
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.pdb

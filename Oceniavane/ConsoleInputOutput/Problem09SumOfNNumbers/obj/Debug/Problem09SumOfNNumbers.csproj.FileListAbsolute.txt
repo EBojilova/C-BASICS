@@ -1,0 +1,11 @@
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem09SumOfNNumbers\bin\Debug\Problem09SumOfNNumbers.exe.config
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem09SumOfNNumbers\bin\Debug\Problem09SumOfNNumbers.exe
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem09SumOfNNumbers\bin\Debug\Problem09SumOfNNumbers.pdb
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem09SumOfNNumbers\obj\Debug\Problem09SumOfNNumbers.exe
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem09SumOfNNumbers\obj\Debug\Problem09SumOfNNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem09SumOfNNumbers\bin\Debug\Problem09SumOfNNumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem09SumOfNNumbers\obj\Debug\Problem09SumOfNNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem09SumOfNNumbers\obj\Debug\Problem09SumOfNNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem09SumOfNNumbers\bin\Debug\Problem09SumOfNNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem09SumOfNNumbers\bin\Debug\Problem09SumOfNNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem09SumOfNNumbers\obj\Debug\Problem09SumOfNNumbers.csprojResolveAssemblyReference.cache

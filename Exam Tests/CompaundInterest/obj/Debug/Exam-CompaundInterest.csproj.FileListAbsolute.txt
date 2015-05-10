@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CompaundInterest\bin\Debug\CompaundInterest.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CompaundInterest\bin\Debug\CompaundInterest.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CompaundInterest\bin\Debug\CompaundInterest.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CompaundInterest\obj\Debug\Exam-CompaundInterest.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CompaundInterest\obj\Debug\CompaundInterest.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CompaundInterest\obj\Debug\CompaundInterest.pdb

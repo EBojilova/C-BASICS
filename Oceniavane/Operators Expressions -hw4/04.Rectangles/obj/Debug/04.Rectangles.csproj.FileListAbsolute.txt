@@ -1,0 +1,8 @@
+E:\Softuni- HW\Operators Expressions -hw4\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+E:\Softuni- HW\Operators Expressions -hw4\04.Rectangles\bin\Debug\04.Rectangles.exe
+E:\Softuni- HW\Operators Expressions -hw4\04.Rectangles\bin\Debug\04.Rectangles.pdb
+E:\Softuni- HW\Operators Expressions -hw4\04.Rectangles\obj\Debug\04.Rectangles.exe
+E:\Softuni- HW\Operators Expressions -hw4\04.Rectangles\obj\Debug\04.Rectangles.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Operators Expressions -hw4\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Operators Expressions -hw4\04.Rectangles\obj\Debug\04.Rectangles.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Operators Expressions -hw4\04.Rectangles\obj\Debug\04.Rectangles.pdb

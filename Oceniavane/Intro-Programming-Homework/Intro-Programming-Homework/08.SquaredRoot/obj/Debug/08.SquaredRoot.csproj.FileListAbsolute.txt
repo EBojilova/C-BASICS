@@ -1,0 +1,8 @@
+C:\Users\Venci\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\08.SquaredRoot\bin\Debug\08.SquaredRoot.exe.config
+C:\Users\Venci\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\08.SquaredRoot\bin\Debug\08.SquaredRoot.exe
+C:\Users\Venci\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\08.SquaredRoot\bin\Debug\08.SquaredRoot.pdb
+C:\Users\Venci\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\08.SquaredRoot\obj\Debug\08.SquaredRoot.exe
+C:\Users\Venci\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\08.SquaredRoot\obj\Debug\08.SquaredRoot.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Intro-Programming-Homework\Intro-Programming-Homework\08.SquaredRoot\bin\Debug\08.SquaredRoot.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Intro-Programming-Homework\Intro-Programming-Homework\08.SquaredRoot\obj\Debug\08.SquaredRoot.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Intro-Programming-Homework\Intro-Programming-Homework\08.SquaredRoot\obj\Debug\08.SquaredRoot.pdb

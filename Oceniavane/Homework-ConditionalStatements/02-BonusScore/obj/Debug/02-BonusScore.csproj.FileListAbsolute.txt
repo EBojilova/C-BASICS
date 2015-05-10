@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\02-BonusScore\bin\Debug\02-BonusScore.exe.config
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\02-BonusScore\bin\Debug\02-BonusScore.exe
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\02-BonusScore\bin\Debug\02-BonusScore.pdb
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\02-BonusScore\obj\Debug\02-BonusScore.exe
+C:\Users\User\Desktop\C#Basics2015\4-OperatorsAndExpressions\Homework-ConditionalStatements\02-BonusScore\obj\Debug\02-BonusScore.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\02-BonusScore\bin\Debug\02-BonusScore.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\02-BonusScore\obj\Debug\02-BonusScore.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework-ConditionalStatements\02-BonusScore\obj\Debug\02-BonusScore.pdb

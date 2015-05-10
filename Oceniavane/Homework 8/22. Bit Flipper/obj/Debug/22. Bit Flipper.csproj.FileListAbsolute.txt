@@ -1,0 +1,12 @@
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\22. Bit Flipper\bin\Debug\_22.Bit_Flipper.exe.config
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\22. Bit Flipper\bin\Debug\_22.Bit_Flipper.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\22. Bit Flipper\bin\Debug\_22.Bit_Flipper.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\22. Bit Flipper\obj\Debug\22. Bit Flipper.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\22. Bit Flipper\obj\Debug\_22.Bit_Flipper.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\22. Bit Flipper\obj\Debug\_22.Bit_Flipper.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\22. Bit Flipper\bin\Debug\_22.Bit_Flipper.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\22. Bit Flipper\obj\Debug\_22.Bit_Flipper.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\22. Bit Flipper\obj\Debug\_22.Bit_Flipper.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\22. Bit Flipper\bin\Debug\_22.Bit_Flipper.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\22. Bit Flipper\bin\Debug\_22.Bit_Flipper.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\22. Bit Flipper\obj\Debug\22. Bit Flipper.csprojResolveAssemblyReference.cache

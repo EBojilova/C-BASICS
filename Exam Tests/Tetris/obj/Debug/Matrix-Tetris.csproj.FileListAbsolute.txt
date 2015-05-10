@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Tetris\obj\Debug\Tetris.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBASICS\Exam Tests\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBASICS\Exam Tests\Tetris\obj\Debug\Tetris.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBASICS\Exam Tests\Tetris\obj\Debug\Tetris.pdb

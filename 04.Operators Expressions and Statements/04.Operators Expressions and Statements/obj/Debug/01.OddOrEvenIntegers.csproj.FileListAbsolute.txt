@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\04.Operators Expressions and Statements\04.Operators Expressions and Statements\bin\Debug\04.Operators Expressions and Statements.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\04.Operators Expressions and Statements\04.Operators Expressions and Statements\bin\Debug\04.Operators Expressions and Statements.exe
+c:\users\elena\documents\visual studio 2013\Projects\04.Operators Expressions and Statements\04.Operators Expressions and Statements\bin\Debug\04.Operators Expressions and Statements.pdb
+c:\users\elena\documents\visual studio 2013\Projects\04.Operators Expressions and Statements\04.Operators Expressions and Statements\obj\Debug\01.OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\04.Operators Expressions and Statements\04.Operators Expressions and Statements\obj\Debug\04.Operators Expressions and Statements.exe
+c:\users\elena\documents\visual studio 2013\Projects\04.Operators Expressions and Statements\04.Operators Expressions and Statements\obj\Debug\04.Operators Expressions and Statements.pdb

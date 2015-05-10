@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\NakovsMatching\bin\Debug\NakovsMatching.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\NakovsMatching\bin\Debug\NakovsMatching.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\NakovsMatching\bin\Debug\NakovsMatching.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\NakovsMatching\obj\Debug\For-NakovsMatching.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\NakovsMatching\obj\Debug\NakovsMatching.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\NakovsMatching\obj\Debug\NakovsMatching.pdb

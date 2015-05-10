@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Dumbell\bin\Debug\Dumbell.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Dumbell\bin\Debug\Dumbell.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Dumbell\bin\Debug\Dumbell.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Dumbell\obj\Debug\Dumbell.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Dumbell\obj\Debug\Dumbell.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Dumbell\obj\Debug\Dumbell.pdb

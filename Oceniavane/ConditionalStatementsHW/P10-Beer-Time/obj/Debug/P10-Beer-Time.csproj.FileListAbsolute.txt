@@ -1,0 +1,9 @@
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P10-Beer-Time\bin\Debug\P10-Beer-Time.exe.config
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P10-Beer-Time\bin\Debug\P10-Beer-Time.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P10-Beer-Time\bin\Debug\P10-Beer-Time.pdb
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P10-Beer-Time\obj\Debug\P10-Beer-Time.csprojResolveAssemblyReference.cache
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P10-Beer-Time\obj\Debug\P10-Beer-Time.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P10-Beer-Time\obj\Debug\P10-Beer-Time.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P10-Beer-Time\bin\Debug\P10-Beer-Time.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P10-Beer-Time\obj\Debug\P10-Beer-Time.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P10-Beer-Time\obj\Debug\P10-Beer-Time.pdb

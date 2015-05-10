@@ -1,0 +1,2 @@
+D:\Stuff\Software University\Домашни\Loops\12RandomizeOneToN\bin\Debug\12RandomizeOneToN.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Loops\12RandomizeOneToN\bin\Debug\12RandomizeOneToN.exe.config

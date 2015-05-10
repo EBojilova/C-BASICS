@@ -1,0 +1,8 @@
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P4-Multiplication-Sign\bin\Debug\P4-Multiplication-Sign.exe.config
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P4-Multiplication-Sign\bin\Debug\P4-Multiplication-Sign.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P4-Multiplication-Sign\bin\Debug\P4-Multiplication-Sign.pdb
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P4-Multiplication-Sign\obj\Debug\P4-Multiplication-Sign.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P4-Multiplication-Sign\obj\Debug\P4-Multiplication-Sign.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P4-Multiplication-Sign\bin\Debug\P4-Multiplication-Sign.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P4-Multiplication-Sign\obj\Debug\P4-Multiplication-Sign.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW\P4-Multiplication-Sign\obj\Debug\P4-Multiplication-Sign.pdb

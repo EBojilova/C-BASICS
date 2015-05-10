@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\22.Bit Flipper with bits operations\bin\Debug\17.Bit Flipper with bits operations.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\22.Bit Flipper with bits operations\bin\Debug\17.Bit Flipper with bits operations.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\22.Bit Flipper with bits operations\bin\Debug\17.Bit Flipper with bits operations.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\22.Bit Flipper with bits operations\obj\Debug\17.Bit Flipper with bits operations.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\22.Bit Flipper with bits operations\obj\Debug\17.Bit Flipper with bits operations.pdb

@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\OddEvenCounter\bin\Debug\OddEvenCounter.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\OddEvenCounter\bin\Debug\OddEvenCounter.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\OddEvenCounter\bin\Debug\OddEvenCounter.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\OddEvenCounter\obj\Debug\OddEvenCounter.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\OddEvenCounter\obj\Debug\OddEvenCounter.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\OddEvenCounter\obj\Debug\OddEvenCounter.pdb

@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Fruit Market\bin\Debug\Fruit Market.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Fruit Market\bin\Debug\Fruit Market.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Fruit Market\bin\Debug\Fruit Market.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Fruit Market\obj\Debug\Fruit Market.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Fruit Market\obj\Debug\Fruit Market.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Fruit Market\obj\Debug\Fruit Market.pdb

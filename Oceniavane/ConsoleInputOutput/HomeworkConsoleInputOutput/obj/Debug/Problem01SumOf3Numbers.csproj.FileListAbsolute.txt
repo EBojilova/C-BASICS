@@ -1,0 +1,12 @@
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\HomeworkConsoleInputOutput\obj\Debug\Problem01SumOf3Numbers.csprojResolveAssemblyReference.cache
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\HomeworkConsoleInputOutput\bin\Debug\HomeworkConsoleInputOutput.exe.config
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\HomeworkConsoleInputOutput\bin\Debug\HomeworkConsoleInputOutput.exe
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\HomeworkConsoleInputOutput\bin\Debug\HomeworkConsoleInputOutput.pdb
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\HomeworkConsoleInputOutput\obj\Debug\HomeworkConsoleInputOutput.exe
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\HomeworkConsoleInputOutput\obj\Debug\HomeworkConsoleInputOutput.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\HomeworkConsoleInputOutput\bin\Debug\HomeworkConsoleInputOutput.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\HomeworkConsoleInputOutput\obj\Debug\HomeworkConsoleInputOutput.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\HomeworkConsoleInputOutput\obj\Debug\HomeworkConsoleInputOutput.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\HomeworkConsoleInputOutput\bin\Debug\HomeworkConsoleInputOutput.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\HomeworkConsoleInputOutput\bin\Debug\HomeworkConsoleInputOutput.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\HomeworkConsoleInputOutput\obj\Debug\Problem01SumOf3Numbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\TheBiggestOfFiveNumbers\obj\Debug\TheBiggestOfFiveNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\TheBiggestOfFiveNumbers\obj\Debug\TheBiggestOfFiveNumbers.pdb

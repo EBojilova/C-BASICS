@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\05.CalculateFactorielAndDegreeDevision\bin\Debug\05.CalculateFactorielAndDegreeDevision.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\05.CalculateFactorielAndDegreeDevision\bin\Debug\05.CalculateFactorielAndDegreeDevision.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\05.CalculateFactorielAndDegreeDevision\bin\Debug\05.CalculateFactorielAndDegreeDevision.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\05.CalculateFactorielAndDegreeDevision\obj\Debug\05.CalculateFactorielAndDegreeDevision.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\05.CalculateFactorielAndDegreeDevision\obj\Debug\05.CalculateFactorielAndDegreeDevision.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\05.CalculateFactorielAndDegreeDevision\obj\Debug\05.CalculateFactorielAndDegreeDevision.pdb

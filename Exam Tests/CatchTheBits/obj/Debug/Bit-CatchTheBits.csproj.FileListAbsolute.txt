@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CatchTheBits\bin\Debug\CatchTheBits.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CatchTheBits\bin\Debug\CatchTheBits.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CatchTheBits\bin\Debug\CatchTheBits.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CatchTheBits\obj\Debug\Bit-CatchTheBits.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CatchTheBits\obj\Debug\CatchTheBits.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\CatchTheBits\obj\Debug\CatchTheBits.pdb

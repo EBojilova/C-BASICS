@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\07.PointInCircle\bin\Debug\07.PointInCircle.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\07.PointInCircle\bin\Debug\07.PointInCircle.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\07.PointInCircle\bin\Debug\07.PointInCircle.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\07.PointInCircle\obj\Debug\07.PointInCircle.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\07.PointInCircle\obj\Debug\07.PointInCircle.pdb

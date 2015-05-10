@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\10.EmployeeData\bin\Release\10.EmployeeData.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\10.EmployeeData\bin\Release\10.EmployeeData.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\10.EmployeeData\bin\Release\10.EmployeeData.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\10.EmployeeData\obj\Release\10.EmployeeData.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\10.EmployeeData\obj\Release\10.EmployeeData.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\10.EmployeeData\obj\Release\10.EmployeeData.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\12.CountOfNames\bin\Debug\08.CountOfNames.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBasics\8.Homework-C# Advanced Topics\12.CountOfNames\bin\Debug\08.CountOfNames.exe.config

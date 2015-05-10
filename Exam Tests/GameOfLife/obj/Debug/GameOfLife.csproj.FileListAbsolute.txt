@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\GameOfLife\obj\Debug\GameOfLife.pdb

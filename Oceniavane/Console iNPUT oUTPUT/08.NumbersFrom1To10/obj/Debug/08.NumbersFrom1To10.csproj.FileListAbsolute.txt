@@ -1,0 +1,12 @@
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\08.NumbersFrom1To10\bin\Debug\08.NumbersFrom1To10.exe.config
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\08.NumbersFrom1To10\bin\Debug\08.NumbersFrom1To10.exe
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\08.NumbersFrom1To10\bin\Debug\08.NumbersFrom1To10.pdb
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\08.NumbersFrom1To10\obj\Debug\08.NumbersFrom1To10.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\08.NumbersFrom1To10\obj\Debug\08.NumbersFrom1To10.exe
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\08.NumbersFrom1To10\obj\Debug\08.NumbersFrom1To10.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\08.NumbersFrom1To10\bin\Debug\08.NumbersFrom1To10.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\08.NumbersFrom1To10\obj\Debug\08.NumbersFrom1To10.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\08.NumbersFrom1To10\obj\Debug\08.NumbersFrom1To10.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\08.NumbersFrom1To10\bin\Debug\08.NumbersFrom1To10.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\08.NumbersFrom1To10\bin\Debug\08.NumbersFrom1To10.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\08.NumbersFrom1To10\obj\Debug\08.NumbersFrom1To10.csprojResolveAssemblyReference.cache

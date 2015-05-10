@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\JumpingSums\bin\Debug\JumpingSums.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\JumpingSums\bin\Debug\JumpingSums.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\JumpingSums\bin\Debug\JumpingSums.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\JumpingSums\obj\Debug\JumpingSums.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\JumpingSums\obj\Debug\JumpingSums.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\JumpingSums\obj\Debug\JumpingSums.pdb

@@ -1,0 +1,9 @@
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\08. NumbersFrom1toN\bin\Debug\_08.NumbersFrom1toN.exe.config
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\08. NumbersFrom1toN\bin\Debug\_08.NumbersFrom1toN.exe
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\08. NumbersFrom1toN\bin\Debug\_08.NumbersFrom1toN.pdb
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\08. NumbersFrom1toN\obj\Debug\08. NumbersFrom1toN.csprojResolveAssemblyReference.cache
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\08. NumbersFrom1toN\obj\Debug\_08.NumbersFrom1toN.exe
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\08. NumbersFrom1toN\obj\Debug\_08.NumbersFrom1toN.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\08. NumbersFrom1toN\bin\Debug\_08.NumbersFrom1toN.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\08. NumbersFrom1toN\obj\Debug\_08.NumbersFrom1toN.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\08. NumbersFrom1toN\obj\Debug\_08.NumbersFrom1toN.pdb

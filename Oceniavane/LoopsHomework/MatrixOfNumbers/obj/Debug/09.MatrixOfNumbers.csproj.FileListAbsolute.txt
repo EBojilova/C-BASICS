@@ -1,0 +1,12 @@
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe.config
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.pdb
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.exe
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.pdb
+C:\Users\Mladen\documents\visual studio 2013\Projects\LoopsHomework\MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.csprojResolveAssemblyReference.cache

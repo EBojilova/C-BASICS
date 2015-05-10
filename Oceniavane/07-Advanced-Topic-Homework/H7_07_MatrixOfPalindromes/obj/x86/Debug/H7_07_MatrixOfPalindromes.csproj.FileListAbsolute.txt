@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_07_MatrixOfPalindromes\bin\Debug\H7_07_MatrixOfPalindromes.exe
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_07_MatrixOfPalindromes\bin\Debug\H7_07_MatrixOfPalindromes.pdb
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_07_MatrixOfPalindromes\obj\x86\Debug\H7_07_MatrixOfPalindromes.exe
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_07_MatrixOfPalindromes\obj\x86\Debug\H7_07_MatrixOfPalindromes.pdb

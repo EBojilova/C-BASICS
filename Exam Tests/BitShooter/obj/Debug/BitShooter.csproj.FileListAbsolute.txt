@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitShooter\bin\Debug\BitShooter.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitShooter\bin\Debug\BitShooter.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitShooter\bin\Debug\BitShooter.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitShooter\obj\Debug\BitShooter.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitShooter\obj\Debug\BitShooter.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitShooter\obj\Debug\BitShooter.pdb

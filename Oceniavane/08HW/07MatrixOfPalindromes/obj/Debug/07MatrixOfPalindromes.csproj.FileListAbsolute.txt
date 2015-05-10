@@ -1,0 +1,6 @@
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\07MatrixOfPalindromes\bin\Debug\07MatrixOfPalindromes.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\07MatrixOfPalindromes\bin\Debug\07MatrixOfPalindromes.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\07MatrixOfPalindromes\bin\Debug\07MatrixOfPalindromes.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\07MatrixOfPalindromes\bin\Debug\07MatrixOfPalindromes.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\07MatrixOfPalindromes\obj\Debug\07MatrixOfPalindromes.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\07MatrixOfPalindromes\obj\Debug\07MatrixOfPalindromes.pdb

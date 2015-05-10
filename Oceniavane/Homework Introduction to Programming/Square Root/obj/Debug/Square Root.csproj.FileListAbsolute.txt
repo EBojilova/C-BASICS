@@ -1,0 +1,8 @@
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\Square Root\bin\Debug\Square Root.exe.config
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\Square Root\bin\Debug\Square Root.exe
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\Square Root\bin\Debug\Square Root.pdb
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\Square Root\obj\Debug\Square Root.exe
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\Square Root\obj\Debug\Square Root.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\Square Root\bin\Debug\Square Root.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\Square Root\obj\Debug\Square Root.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\Square Root\obj\Debug\Square Root.pdb

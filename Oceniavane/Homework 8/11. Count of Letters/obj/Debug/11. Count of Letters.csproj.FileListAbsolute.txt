@@ -1,0 +1,12 @@
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\11. Count of Letters\bin\Debug\_11.Count_of_Letters.exe.config
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\11. Count of Letters\bin\Debug\_11.Count_of_Letters.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\11. Count of Letters\bin\Debug\_11.Count_of_Letters.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\11. Count of Letters\obj\Debug\_11.Count_of_Letters.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\11. Count of Letters\obj\Debug\_11.Count_of_Letters.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\11. Count of Letters\obj\Debug\11. Count of Letters.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\11. Count of Letters\bin\Debug\_11.Count_of_Letters.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\11. Count of Letters\obj\Debug\_11.Count_of_Letters.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\11. Count of Letters\obj\Debug\_11.Count_of_Letters.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\11. Count of Letters\bin\Debug\_11.Count_of_Letters.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\11. Count of Letters\bin\Debug\_11.Count_of_Letters.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\11. Count of Letters\obj\Debug\11. Count of Letters.csprojResolveAssemblyReference.cache

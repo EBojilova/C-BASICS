@@ -1,0 +1,5 @@
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem6TheBiggestOf5Numbers\bin\Debug\Problem6TheBiggestOf5Numbers.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem6TheBiggestOf5Numbers\bin\Debug\Problem6TheBiggestOf5Numbers.exe
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem6TheBiggestOf5Numbers\bin\Debug\Problem6TheBiggestOf5Numbers.pdb
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem6TheBiggestOf5Numbers\obj\Debug\Problem6TheBiggestOf5Numbers.exe
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem6TheBiggestOf5Numbers\obj\Debug\Problem6TheBiggestOf5Numbers.pdb

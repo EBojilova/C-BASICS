@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_01_FibNums\bin\Debug\H7_01_FibNums.exe
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_01_FibNums\bin\Debug\H7_01_FibNums.pdb
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_01_FibNums\obj\x86\Debug\H7_01_FibNums.exe
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_01_FibNums\obj\x86\Debug\H7_01_FibNums.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBasics\Oceniavane\07-Advanced-Topic-Homework\H7_01_FibNums\obj\x86\Debug\H7_01_FibNums.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBasics\Oceniavane\07-Advanced-Topic-Homework\H7_01_FibNums\obj\x86\Debug\H7_01_FibNums.pdb

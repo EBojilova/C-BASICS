@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\06.Four-Digit Number\bin\Debug\06.Four-Digit Number.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\06.Four-Digit Number\bin\Debug\06.Four-Digit Number.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\06.Four-Digit Number\bin\Debug\06.Four-Digit Number.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\06.Four-Digit Number\obj\Debug\06.FourDigitNumber.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\06.Four-Digit Number\obj\Debug\06.Four-Digit Number.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.Operators Expressions and Statements\06.Four-Digit Number\obj\Debug\06.Four-Digit Number.pdb

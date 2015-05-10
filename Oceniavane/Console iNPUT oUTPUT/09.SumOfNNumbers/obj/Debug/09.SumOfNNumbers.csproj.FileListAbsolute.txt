@@ -1,0 +1,10 @@
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe.config
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb

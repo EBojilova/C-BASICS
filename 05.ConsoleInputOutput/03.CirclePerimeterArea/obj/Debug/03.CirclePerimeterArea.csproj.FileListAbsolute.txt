@@ -1,0 +1,10 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\03.CirclePerimeterArea\obj\Debug\03.CirclePerimeterArea.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\03.CirclePerimeterArea\obj\Debug\03.CirclePerimeterArea.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\03.CirclePerimeterArea\obj\Debug\03.CirclePerimeterArea.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\03.CirclePerimeterArea\obj\Debug\03.CirclePerimeterArea.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.pdb

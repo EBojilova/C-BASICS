@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.pdb
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.exe
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.pdb

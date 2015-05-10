@@ -1,0 +1,6 @@
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P11-Number-as-Words\bin\Debug\P11-Number-as-Words.exe.config
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P11-Number-as-Words\bin\Debug\P11-Number-as-Words.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P11-Number-as-Words\bin\Debug\P11-Number-as-Words.pdb
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P11-Number-as-Words\obj\Debug\P11-Number-as-Words.csprojResolveAssemblyReference.cache
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P11-Number-as-Words\obj\Debug\P11-Number-as-Words.exe
+E:\Programming\All Visual Studio Projects\Conditional-Statements-Homework\P11-Number-as-Words\obj\Debug\P11-Number-as-Words.pdb

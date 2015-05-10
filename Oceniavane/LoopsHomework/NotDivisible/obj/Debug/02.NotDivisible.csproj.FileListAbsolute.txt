@@ -1,0 +1,9 @@
+c:\users\mladen\documents\visual studio 2013\Projects\LoopsHomework\NotDivisible\bin\Debug\NotDivisible.exe.config
+c:\users\mladen\documents\visual studio 2013\Projects\LoopsHomework\NotDivisible\bin\Debug\NotDivisible.exe
+c:\users\mladen\documents\visual studio 2013\Projects\LoopsHomework\NotDivisible\bin\Debug\NotDivisible.pdb
+c:\users\mladen\documents\visual studio 2013\Projects\LoopsHomework\NotDivisible\obj\Debug\NotDivisible.exe
+c:\users\mladen\documents\visual studio 2013\Projects\LoopsHomework\NotDivisible\obj\Debug\NotDivisible.pdb
+c:\users\mladen\documents\visual studio 2013\Projects\LoopsHomework\NotDivisible\obj\Debug\02.NotDivisible.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\NotDivisible\bin\Debug\NotDivisible.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\NotDivisible\obj\Debug\NotDivisible.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\LoopsHomework\NotDivisible\obj\Debug\NotDivisible.pdb

@@ -1,0 +1,10 @@
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem07SumOf5Numbers\bin\Debug\Problem07SumOf5Numbers.exe.config
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem07SumOf5Numbers\bin\Debug\Problem07SumOf5Numbers.exe
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem07SumOf5Numbers\bin\Debug\Problem07SumOf5Numbers.pdb
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem07SumOf5Numbers\obj\Debug\Problem07SumOf5Numbers.exe
+c:\users\yoda\documents\visual studio 2013\Projects\HomeworkConsoleInputOutput\Problem07SumOf5Numbers\obj\Debug\Problem07SumOf5Numbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem07SumOf5Numbers\bin\Debug\Problem07SumOf5Numbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem07SumOf5Numbers\obj\Debug\Problem07SumOf5Numbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem07SumOf5Numbers\obj\Debug\Problem07SumOf5Numbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem07SumOf5Numbers\bin\Debug\Problem07SumOf5Numbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConsoleInputOutput\Problem07SumOf5Numbers\bin\Debug\Problem07SumOf5Numbers.pdb

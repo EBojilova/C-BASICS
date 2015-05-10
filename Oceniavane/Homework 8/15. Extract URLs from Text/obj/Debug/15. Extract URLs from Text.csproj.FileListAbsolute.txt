@@ -1,0 +1,9 @@
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\15. Extract URLs from Text\bin\Debug\_15.Extract_URLs_from_Text.exe.config
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\15. Extract URLs from Text\bin\Debug\_15.Extract_URLs_from_Text.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\15. Extract URLs from Text\bin\Debug\_15.Extract_URLs_from_Text.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\15. Extract URLs from Text\obj\Debug\15. Extract URLs from Text.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\15. Extract URLs from Text\obj\Debug\_15.Extract_URLs_from_Text.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\15. Extract URLs from Text\obj\Debug\_15.Extract_URLs_from_Text.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\15. Extract URLs from Text\bin\Debug\_15.Extract_URLs_from_Text.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\15. Extract URLs from Text\obj\Debug\_15.Extract_URLs_from_Text.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\15. Extract URLs from Text\obj\Debug\_15.Extract_URLs_from_Text.pdb

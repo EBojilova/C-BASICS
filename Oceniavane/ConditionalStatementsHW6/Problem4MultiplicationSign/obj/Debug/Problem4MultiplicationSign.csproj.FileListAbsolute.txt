@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem4MultiplicationSign\bin\Debug\Problem4MultiplicationSign.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem4MultiplicationSign\bin\Debug\Problem4MultiplicationSign.exe
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem4MultiplicationSign\bin\Debug\Problem4MultiplicationSign.pdb
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem4MultiplicationSign\obj\Debug\Problem4MultiplicationSign.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem4MultiplicationSign\obj\Debug\Problem4MultiplicationSign.exe
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem4MultiplicationSign\obj\Debug\Problem4MultiplicationSign.pdb

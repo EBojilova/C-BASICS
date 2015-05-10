@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\KnightPath\bin\Debug\KnightPath.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\KnightPath\bin\Debug\KnightPath.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\KnightPath\bin\Debug\KnightPath.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\KnightPath\obj\Debug\Bit-KnightPath.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\KnightPath\obj\Debug\KnightPath.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\KnightPath\obj\Debug\KnightPath.pdb

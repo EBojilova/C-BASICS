@@ -1,0 +1,8 @@
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\Print First and Last Name\bin\Debug\Print First and Last Name.exe.config
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\Print First and Last Name\bin\Debug\Print First and Last Name.exe
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\Print First and Last Name\bin\Debug\Print First and Last Name.pdb
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\Print First and Last Name\obj\Debug\Print First and Last Name.exe
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\Print First and Last Name\obj\Debug\Print First and Last Name.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\Print First and Last Name\bin\Debug\Print First and Last Name.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\Print First and Last Name\obj\Debug\Print First and Last Name.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\Print First and Last Name\obj\Debug\Print First and Last Name.pdb

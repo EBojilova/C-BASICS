@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\OddEven Elements\bin\Debug\OddEven Elements.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\OddEven Elements\bin\Debug\OddEven Elements.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\OddEven Elements\bin\Debug\OddEven Elements.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\OddEven Elements\obj\Debug\Second-OddEven Elements.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\OddEven Elements\obj\Debug\OddEven Elements.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\OddEven Elements\obj\Debug\OddEven Elements.pdb

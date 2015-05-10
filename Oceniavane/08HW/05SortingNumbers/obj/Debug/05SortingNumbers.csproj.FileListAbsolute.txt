@@ -1,0 +1,10 @@
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\05SortingNumbers\bin\Debug\05SortingNumbers.exe.config
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\05SortingNumbers\bin\Debug\05SortingNumbers.exe
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\05SortingNumbers\bin\Debug\05SortingNumbers.pdb
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\05SortingNumbers\obj\Debug\05SortingNumbers.exe
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\05SortingNumbers\obj\Debug\05SortingNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\05SortingNumbers\bin\Debug\05SortingNumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\05SortingNumbers\obj\Debug\05SortingNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\05SortingNumbers\obj\Debug\05SortingNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\05SortingNumbers\bin\Debug\05SortingNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\05SortingNumbers\bin\Debug\05SortingNumbers.pdb

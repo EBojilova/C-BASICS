@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_05_SortingNums\bin\Debug\H7_05_SortingNums.exe
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_05_SortingNums\bin\Debug\H7_05_SortingNums.pdb
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_05_SortingNums\obj\x86\Debug\H7_05_SortingNums.exe
+C:\Users\user\Desktop\07-Advanced-Topic-Homework\H7_05_SortingNums\obj\x86\Debug\H7_05_SortingNums.pdb

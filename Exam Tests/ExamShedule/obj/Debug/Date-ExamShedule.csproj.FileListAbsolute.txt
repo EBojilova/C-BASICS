@@ -1,0 +1,2 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\ExamShedule\bin\Debug\ExamShedule.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBASICS\Exam Tests\ExamShedule\bin\Debug\ExamShedule.exe.config

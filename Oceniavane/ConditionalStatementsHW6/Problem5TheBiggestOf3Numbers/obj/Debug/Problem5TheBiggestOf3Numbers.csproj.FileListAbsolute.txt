@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem5TheBiggestOf3Numbers\bin\Debug\Problem5TheBiggestOf3Numbers.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem5TheBiggestOf3Numbers\bin\Debug\Problem5TheBiggestOf3Numbers.exe
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem5TheBiggestOf3Numbers\bin\Debug\Problem5TheBiggestOf3Numbers.pdb
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem5TheBiggestOf3Numbers\obj\Debug\Problem5TheBiggestOf3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem5TheBiggestOf3Numbers\obj\Debug\Problem5TheBiggestOf3Numbers.exe
+C:\Users\user\documents\visual studio 2013\Projects\HW6\Problem5TheBiggestOf3Numbers\obj\Debug\Problem5TheBiggestOf3Numbers.pdb

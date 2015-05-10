@@ -1,0 +1,11 @@
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\14. Longest Word in a Text\bin\Debug\_14.Longest_Word_in_a_Text.exe.config
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\14. Longest Word in a Text\bin\Debug\_14.Longest_Word_in_a_Text.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\14. Longest Word in a Text\bin\Debug\_14.Longest_Word_in_a_Text.pdb
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\14. Longest Word in a Text\obj\Debug\_14.Longest_Word_in_a_Text.exe
+C:\Users\Mitko\Desktop\SOFTUNI\Homework 8\14. Longest Word in a Text\obj\Debug\_14.Longest_Word_in_a_Text.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\14. Longest Word in a Text\bin\Debug\_14.Longest_Word_in_a_Text.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\14. Longest Word in a Text\obj\Debug\_14.Longest_Word_in_a_Text.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\14. Longest Word in a Text\obj\Debug\_14.Longest_Word_in_a_Text.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\14. Longest Word in a Text\bin\Debug\_14.Longest_Word_in_a_Text.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\14. Longest Word in a Text\bin\Debug\_14.Longest_Word_in_a_Text.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework 8\14. Longest Word in a Text\obj\Debug\14. Longest Word in a Text.csprojResolveAssemblyReference.cache

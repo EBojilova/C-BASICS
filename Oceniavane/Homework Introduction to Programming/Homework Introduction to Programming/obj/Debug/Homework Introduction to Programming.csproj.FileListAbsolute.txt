@@ -1,0 +1,12 @@
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\Homework Introduction to Programming\bin\Debug\Homework Introduction to Programming.exe.config
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\Homework Introduction to Programming\bin\Debug\Homework Introduction to Programming.exe
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\Homework Introduction to Programming\bin\Debug\Homework Introduction to Programming.pdb
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\Homework Introduction to Programming\obj\Debug\Homework Introduction to Programming.csprojResolveAssemblyReference.cache
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\Homework Introduction to Programming\obj\Debug\Homework Introduction to Programming.exe
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\Homework Introduction to Programming\obj\Debug\Homework Introduction to Programming.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\Homework Introduction to Programming\bin\Debug\Homework Introduction to Programming.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\Homework Introduction to Programming\obj\Debug\Homework Introduction to Programming.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\Homework Introduction to Programming\obj\Debug\Homework Introduction to Programming.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\Homework Introduction to Programming\bin\Debug\Homework Introduction to Programming.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\Homework Introduction to Programming\bin\Debug\Homework Introduction to Programming.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\Homework Introduction to Programming\obj\Debug\Homework Introduction to Programming.csprojResolveAssemblyReference.cache

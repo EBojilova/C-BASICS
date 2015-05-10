@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\23.FiveSpecialLetters\bin\Debug\23.FiveSpecialLetters.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\23.FiveSpecialLetters\bin\Debug\23.FiveSpecialLetters.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\23.FiveSpecialLetters\bin\Debug\23.FiveSpecialLetters.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\23.FiveSpecialLetters\obj\Debug\23.FiveSpecialLetters.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\23.FiveSpecialLetters\obj\Debug\23.FiveSpecialLetters.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\23.FiveSpecialLetters\obj\Debug\23.FiveSpecialLetters.pdb

@@ -1,0 +1,4 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\Primes\bin\Release\Primes.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\Primes\bin\Release\Primes.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\Primes\obj\Release\Primes.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\Primes\obj\Release\Primes.pdb

@@ -1,0 +1,4 @@
+http://www.calculatorsoup.com/calculators/math/lcm.php
+
+For the values: 3456, 1234
+The LCM is: 2132352

@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsAtCrossroads\bin\Debug\BitsAtCrossroads.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsAtCrossroads\bin\Debug\BitsAtCrossroads.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsAtCrossroads\bin\Debug\BitsAtCrossroads.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsAtCrossroads\obj\Debug\BitsAtCrossroads.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsAtCrossroads\obj\Debug\BitsAtCrossroads.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BitsAtCrossroads\obj\Debug\BitsAtCrossroads.pdb

@@ -1,0 +1,12 @@
+D:\C#MYPROGRAMING\Console InputandOutput\04NumberComparer\bin\Debug\04NumberComparer.exe.config
+D:\C#MYPROGRAMING\Console InputandOutput\04NumberComparer\bin\Debug\04NumberComparer.exe
+D:\C#MYPROGRAMING\Console InputandOutput\04NumberComparer\bin\Debug\04NumberComparer.pdb
+D:\C#MYPROGRAMING\Console InputandOutput\04NumberComparer\obj\Debug\04NumberComparer.csprojResolveAssemblyReference.cache
+D:\C#MYPROGRAMING\Console InputandOutput\04NumberComparer\obj\Debug\04NumberComparer.exe
+D:\C#MYPROGRAMING\Console InputandOutput\04NumberComparer\obj\Debug\04NumberComparer.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\04NumberComparer\bin\Debug\04NumberComparer.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\04NumberComparer\obj\Debug\04NumberComparer.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\04NumberComparer\obj\Debug\04NumberComparer.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\04NumberComparer\bin\Debug\04NumberComparer.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\04NumberComparer\bin\Debug\04NumberComparer.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\04NumberComparer\obj\Debug\04NumberComparer.csprojResolveAssemblyReference.cache

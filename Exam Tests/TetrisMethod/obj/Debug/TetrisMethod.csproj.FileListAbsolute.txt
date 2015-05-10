@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\TetrisMethod\bin\Debug\TetrisMethod.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\TetrisMethod\bin\Debug\TetrisMethod.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\TetrisMethod\bin\Debug\TetrisMethod.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\TetrisMethod\obj\Debug\TetrisMethod.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\TetrisMethod\obj\Debug\TetrisMethod.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\TetrisMethod\obj\Debug\TetrisMethod.pdb

@@ -1,0 +1,8 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.pdb
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\4.UnicodeCharacter\obj\Debug\4.UnicodeCharacter.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\4.UnicodeCharacter\obj\Debug\4.UnicodeCharacter.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\4.UnicodeCharacter\obj\Debug\4.UnicodeCharacter.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\4.UnicodeCharacter\obj\Debug\4.UnicodeCharacter.pdb

@@ -1,0 +1,18 @@
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\03. Primes in given range\bin\Debug\_03.Primes_in_given_range.exe.config
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\03. Primes in given range\obj\Debug\03. Primes in given range.csprojResolveAssemblyReference.cache
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\03. Primes in given range\bin\Debug\_03.Primes_in_given_range.exe
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\03. Primes in given range\bin\Debug\_03.Primes_in_given_range.pdb
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\03. Primes in given range\obj\Debug\_03.Primes_in_given_range.exe
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\03. Primes in given range\obj\Debug\_03.Primes_in_given_range.pdb
+D:\Dropbox\C# Basics\8. CSharp Advanced Topics 1\03. Primes in given range\bin\Debug\_03.Primes_in_given_range.exe.config
+D:\Dropbox\C# Basics\8. CSharp Advanced Topics 1\03. Primes in given range\obj\Debug\_03.Primes_in_given_range.exe
+D:\Dropbox\C# Basics\8. CSharp Advanced Topics 1\03. Primes in given range\obj\Debug\_03.Primes_in_given_range.pdb
+D:\Dropbox\C# Basics\8. CSharp Advanced Topics 1\03. Primes in given range\bin\Debug\_03.Primes_in_given_range.exe
+D:\Dropbox\C# Basics\8. CSharp Advanced Topics 1\03. Primes in given range\bin\Debug\_03.Primes_in_given_range.pdb
+D:\Dropbox\C# Basics\8. CSharp Advanced Topics 1\03. Primes in given range\obj\Debug\03. Primes in given range.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\03. Primes in given range\bin\Debug\_03.Primes_in_given_range.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\03. Primes in given range\obj\Debug\_03.Primes_in_given_range.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\03. Primes in given range\obj\Debug\_03.Primes_in_given_range.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\03. Primes in given range\bin\Debug\_03.Primes_in_given_range.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\03. Primes in given range\bin\Debug\_03.Primes_in_given_range.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\03. Primes in given range\obj\Debug\03. Primes in given range.csprojResolveAssemblyReference.cache

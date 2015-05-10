@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\07. Matrix of Palindromes\bin\Debug\_03.Matrix_of_Palindromes.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\07. Matrix of Palindromes\obj\Debug\_03.Matrix_of_Palindromes.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\07. Matrix of Palindromes\obj\Debug\_03.Matrix_of_Palindromes.pdb

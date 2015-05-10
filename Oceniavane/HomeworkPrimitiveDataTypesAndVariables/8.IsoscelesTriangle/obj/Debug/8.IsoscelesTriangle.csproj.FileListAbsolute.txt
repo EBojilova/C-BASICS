@@ -1,0 +1,10 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\8.IsoscelesTriangle\bin\Debug\8.IsoscelesTriangle.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\8.IsoscelesTriangle\bin\Debug\8.IsoscelesTriangle.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\8.IsoscelesTriangle\bin\Debug\8.IsoscelesTriangle.pdb
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\8.IsoscelesTriangle\obj\Debug\8.IsoscelesTriangle.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\8.IsoscelesTriangle\obj\Debug\8.IsoscelesTriangle.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\8.IsoscelesTriangle\bin\Debug\8.IsoscelesTriangle.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\8.IsoscelesTriangle\obj\Debug\8.IsoscelesTriangle.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\8.IsoscelesTriangle\obj\Debug\8.IsoscelesTriangle.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\8.IsoscelesTriangle\bin\Debug\8.IsoscelesTriangle.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\8.IsoscelesTriangle\bin\Debug\8.IsoscelesTriangle.pdb

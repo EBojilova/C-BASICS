@@ -1,0 +1,8 @@
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\DateAndTime\bin\Debug\DateAndTime.exe.config
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\DateAndTime\bin\Debug\DateAndTime.exe
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\DateAndTime\bin\Debug\DateAndTime.pdb
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\DateAndTime\obj\Debug\DateAndTime.exe
+c:\users\al!en\documents\visual studio 2013\Projects\Homework Introduction to Programming\DateAndTime\obj\Debug\DateAndTime.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\DateAndTime\bin\Debug\DateAndTime.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\DateAndTime\obj\Debug\DateAndTime.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Homework Introduction to Programming\DateAndTime\obj\Debug\DateAndTime.pdb

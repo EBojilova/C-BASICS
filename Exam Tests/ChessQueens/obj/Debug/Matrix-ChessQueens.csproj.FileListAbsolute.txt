@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\ChessQueens\bin\Debug\ChessQueens.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\ChessQueens\bin\Debug\ChessQueens.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\ChessQueens\bin\Debug\ChessQueens.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\ChessQueens\obj\Debug\Matrix-ChessQueens.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\ChessQueens\obj\Debug\ChessQueens.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\ChessQueens\obj\Debug\ChessQueens.pdb

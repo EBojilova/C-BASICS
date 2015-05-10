@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\PetersGame\bin\Debug\PetersGame.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\PetersGame\bin\Debug\PetersGame.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\PetersGame\bin\Debug\PetersGame.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\PetersGame\obj\Debug\PetersGame.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\PetersGame\obj\Debug\PetersGame.pdb

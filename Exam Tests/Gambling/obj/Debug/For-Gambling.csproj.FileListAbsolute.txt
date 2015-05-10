@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Gambling\bin\Debug\Gambling.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Gambling\bin\Debug\Gambling.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Gambling\bin\Debug\Gambling.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Gambling\obj\Debug\For-Gambling.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Gambling\obj\Debug\Gambling.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Gambling\obj\Debug\Gambling.pdb

@@ -1,0 +1,9 @@
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\05. FormatingNumbers\bin\Debug\_05.FormatingNumbers.exe.config
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\05. FormatingNumbers\bin\Debug\_05.FormatingNumbers.exe
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\05. FormatingNumbers\bin\Debug\_05.FormatingNumbers.pdb
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\05. FormatingNumbers\obj\Debug\05. FormatingNumbers.csprojResolveAssemblyReference.cache
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\05. FormatingNumbers\obj\Debug\_05.FormatingNumbers.exe
+c:\users\acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\05. FormatingNumbers\obj\Debug\_05.FormatingNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\05. FormatingNumbers\bin\Debug\_05.FormatingNumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\05. FormatingNumbers\obj\Debug\_05.FormatingNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\05. FormatingNumbers\obj\Debug\_05.FormatingNumbers.pdb

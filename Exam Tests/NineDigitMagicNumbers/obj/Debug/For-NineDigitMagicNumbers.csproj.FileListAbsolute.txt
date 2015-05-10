@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\NineDigitMagicNumbers\obj\Debug\For-NineDigitMagicNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.pdb

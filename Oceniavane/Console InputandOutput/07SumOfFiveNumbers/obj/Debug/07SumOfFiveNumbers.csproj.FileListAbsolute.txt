@@ -1,0 +1,10 @@
+D:\C#MYPROGRAMING\Console InputandOutput\07SumOfFiveNumbers\bin\Debug\07SumOfFiveNumbers.exe.config
+D:\C#MYPROGRAMING\Console InputandOutput\07SumOfFiveNumbers\bin\Debug\07SumOfFiveNumbers.exe
+D:\C#MYPROGRAMING\Console InputandOutput\07SumOfFiveNumbers\bin\Debug\07SumOfFiveNumbers.pdb
+D:\C#MYPROGRAMING\Console InputandOutput\07SumOfFiveNumbers\obj\Debug\07SumOfFiveNumbers.exe
+D:\C#MYPROGRAMING\Console InputandOutput\07SumOfFiveNumbers\obj\Debug\07SumOfFiveNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\07SumOfFiveNumbers\bin\Debug\07SumOfFiveNumbers.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\07SumOfFiveNumbers\obj\Debug\07SumOfFiveNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\07SumOfFiveNumbers\obj\Debug\07SumOfFiveNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\07SumOfFiveNumbers\bin\Debug\07SumOfFiveNumbers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\07SumOfFiveNumbers\bin\Debug\07SumOfFiveNumbers.pdb

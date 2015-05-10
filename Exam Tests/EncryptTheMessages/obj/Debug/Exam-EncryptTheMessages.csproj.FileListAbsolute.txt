@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\EncryptTheMessages\bin\Debug\EncryptTheMessages.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\EncryptTheMessages\obj\Debug\EncryptTheMessages.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\EncryptTheMessages\obj\Debug\EncryptTheMessages.pdb

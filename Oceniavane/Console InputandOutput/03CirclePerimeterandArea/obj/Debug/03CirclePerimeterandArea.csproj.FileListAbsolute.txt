@@ -1,0 +1,10 @@
+D:\C#MYPROGRAMING\Console InputandOutput\03CirclePerimeterandArea\bin\Debug\03CirclePerimeterandArea.exe.config
+D:\C#MYPROGRAMING\Console InputandOutput\03CirclePerimeterandArea\bin\Debug\03CirclePerimeterandArea.exe
+D:\C#MYPROGRAMING\Console InputandOutput\03CirclePerimeterandArea\bin\Debug\03CirclePerimeterandArea.pdb
+D:\C#MYPROGRAMING\Console InputandOutput\03CirclePerimeterandArea\obj\Debug\03CirclePerimeterandArea.exe
+D:\C#MYPROGRAMING\Console InputandOutput\03CirclePerimeterandArea\obj\Debug\03CirclePerimeterandArea.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\03CirclePerimeterandArea\bin\Debug\03CirclePerimeterandArea.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\03CirclePerimeterandArea\obj\Debug\03CirclePerimeterandArea.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\03CirclePerimeterandArea\obj\Debug\03CirclePerimeterandArea.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\03CirclePerimeterandArea\bin\Debug\03CirclePerimeterandArea.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console InputandOutput\03CirclePerimeterandArea\bin\Debug\03CirclePerimeterandArea.pdb

@@ -1,0 +1,8 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb

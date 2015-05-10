@@ -1,0 +1,12 @@
+E:\Softuni- HW\Operators Expressions -hw4\01OddOrEven\bin\Debug\01OddOrEven.exe.config
+E:\Softuni- HW\Operators Expressions -hw4\01OddOrEven\bin\Debug\01OddOrEven.exe
+E:\Softuni- HW\Operators Expressions -hw4\01OddOrEven\bin\Debug\01OddOrEven.pdb
+E:\Softuni- HW\Operators Expressions -hw4\01OddOrEven\obj\Debug\01OddOrEven.csprojResolveAssemblyReference.cache
+E:\Softuni- HW\Operators Expressions -hw4\01OddOrEven\obj\Debug\01OddOrEven.exe
+E:\Softuni- HW\Operators Expressions -hw4\01OddOrEven\obj\Debug\01OddOrEven.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Operators Expressions -hw4\01OddOrEven\bin\Debug\01OddOrEven.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Operators Expressions -hw4\01OddOrEven\obj\Debug\01OddOrEven.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Operators Expressions -hw4\01OddOrEven\obj\Debug\01OddOrEven.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Operators Expressions -hw4\01OddOrEven\bin\Debug\01OddOrEven.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Operators Expressions -hw4\01OddOrEven\bin\Debug\01OddOrEven.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Operators Expressions -hw4\01OddOrEven\obj\Debug\01OddOrEven.csprojResolveAssemblyReference.cache

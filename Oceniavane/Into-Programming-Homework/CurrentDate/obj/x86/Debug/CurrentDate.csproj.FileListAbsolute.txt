@@ -1,0 +1,4 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\CurrentDate\bin\Debug\CurrentDate.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\CurrentDate\bin\Debug\CurrentDate.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\CurrentDate\obj\x86\Debug\CurrentDate.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Into-Programming-Homework\CurrentDate\obj\x86\Debug\CurrentDate.pdb

@@ -1,0 +1,10 @@
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\12CountOfNames\bin\Debug\12CountOfNames.exe.config
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\12CountOfNames\bin\Debug\12CountOfNames.exe
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\12CountOfNames\bin\Debug\12CountOfNames.pdb
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\12CountOfNames\obj\Debug\12CountOfNames.exe
+C:\Users\sv_et_000\documents\visual studio 2012\Projects\07AdvancedTopics\12CountOfNames\obj\Debug\12CountOfNames.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\12CountOfNames\bin\Debug\12CountOfNames.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\12CountOfNames\obj\Debug\12CountOfNames.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\12CountOfNames\obj\Debug\12CountOfNames.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\12CountOfNames\bin\Debug\12CountOfNames.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\08HW\12CountOfNames\bin\Debug\12CountOfNames.pdb

@@ -1,0 +1,15 @@
+D:\Programs\Visual Studio 12.0\Projects\C# Basics\08. CSharp Advanced Topics 1\02. Longest Area In Array\bin\Debug\_02.Longest_Area_In_Array.exe.config
+D:\Programs\Visual Studio 12.0\Projects\C# Basics\08. CSharp Advanced Topics 1\02. Longest Area In Array\bin\Debug\_02.Longest_Area_In_Array.exe
+D:\Programs\Visual Studio 12.0\Projects\C# Basics\08. CSharp Advanced Topics 1\02. Longest Area In Array\bin\Debug\_02.Longest_Area_In_Array.pdb
+D:\Programs\Visual Studio 12.0\Projects\C# Basics\08. CSharp Advanced Topics 1\02. Longest Area In Array\obj\Debug\02. Longest Area In Array.csprojResolveAssemblyReference.cache
+D:\Programs\Visual Studio 12.0\Projects\C# Basics\08. CSharp Advanced Topics 1\02. Longest Area In Array\obj\Debug\_02.Longest_Area_In_Array.exe
+D:\Programs\Visual Studio 12.0\Projects\C# Basics\08. CSharp Advanced Topics 1\02. Longest Area In Array\obj\Debug\_02.Longest_Area_In_Array.pdb
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\02. Longest Area In Array\bin\Debug\_02.Longest_Area_In_Array.exe.config
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\02. Longest Area In Array\obj\Debug\_02.Longest_Area_In_Array.exe
+D:\Downloads\c#\C# Basics\8. CSharp Advanced Topics 1\02. Longest Area In Array\obj\Debug\_02.Longest_Area_In_Array.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\02. Longest Area In Array\bin\Debug\_02.Longest_Area_In_Array.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\02. Longest Area In Array\obj\Debug\_02.Longest_Area_In_Array.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\02. Longest Area In Array\obj\Debug\_02.Longest_Area_In_Array.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\02. Longest Area In Array\bin\Debug\_02.Longest_Area_In_Array.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\02. Longest Area In Array\bin\Debug\_02.Longest_Area_In_Array.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\02. Longest Area In Array\obj\Debug\02. Longest Area In Array.csprojResolveAssemblyReference.cache

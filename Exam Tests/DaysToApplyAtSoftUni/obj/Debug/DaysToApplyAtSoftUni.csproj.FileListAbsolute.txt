@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\DaysToApplyAtSoftUni\bin\Debug\DaysToApplyAtSoftUni.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\DaysToApplyAtSoftUni\bin\Debug\DaysToApplyAtSoftUni.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\DaysToApplyAtSoftUni\bin\Debug\DaysToApplyAtSoftUni.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\DaysToApplyAtSoftUni\obj\Debug\DaysToApplyAtSoftUni.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\DaysToApplyAtSoftUni\obj\Debug\DaysToApplyAtSoftUni.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\DaysToApplyAtSoftUni\obj\Debug\DaysToApplyAtSoftUni.pdb

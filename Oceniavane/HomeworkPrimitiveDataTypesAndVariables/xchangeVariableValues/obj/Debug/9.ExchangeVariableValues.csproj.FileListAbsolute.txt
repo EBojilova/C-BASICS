@@ -1,0 +1,10 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\xchangeVariableValues\bin\Debug\xchangeVariableValues.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\xchangeVariableValues\bin\Debug\xchangeVariableValues.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\xchangeVariableValues\bin\Debug\xchangeVariableValues.pdb
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\xchangeVariableValues\obj\Debug\xchangeVariableValues.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\xchangeVariableValues\obj\Debug\xchangeVariableValues.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\xchangeVariableValues\bin\Debug\xchangeVariableValues.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\xchangeVariableValues\obj\Debug\xchangeVariableValues.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\xchangeVariableValues\obj\Debug\xchangeVariableValues.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\xchangeVariableValues\bin\Debug\xchangeVariableValues.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\xchangeVariableValues\bin\Debug\xchangeVariableValues.pdb

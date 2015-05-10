@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\12. Count Names\bin\Debug\_08.Count_Names.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\12. Count Names\obj\Debug\_08.Count_Names.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\12. Count Names\obj\Debug\_08.Count_Names.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\12. Count Names\bin\Debug\_08.Count_Names.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\8HWwork\12. Count Names\bin\Debug\_08.Count_Names.pdb

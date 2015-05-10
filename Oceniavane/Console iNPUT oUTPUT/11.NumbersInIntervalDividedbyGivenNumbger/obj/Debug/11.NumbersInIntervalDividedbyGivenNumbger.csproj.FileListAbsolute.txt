@@ -1,0 +1,10 @@
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\11.NumbersInIntervalDividedbyGivenNumbger\bin\Debug\11.NumbersInIntervalDividedbyGivenNumbger.exe.config
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\11.NumbersInIntervalDividedbyGivenNumbger\bin\Debug\11.NumbersInIntervalDividedbyGivenNumbger.exe
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\11.NumbersInIntervalDividedbyGivenNumbger\bin\Debug\11.NumbersInIntervalDividedbyGivenNumbger.pdb
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\11.NumbersInIntervalDividedbyGivenNumbger\obj\Debug\11.NumbersInIntervalDividedbyGivenNumbger.exe
+C:\Users\vic\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHW\11.NumbersInIntervalDividedbyGivenNumbger\obj\Debug\11.NumbersInIntervalDividedbyGivenNumbger.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\11.NumbersInIntervalDividedbyGivenNumbger\bin\Debug\11.NumbersInIntervalDividedbyGivenNumbger.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\11.NumbersInIntervalDividedbyGivenNumbger\obj\Debug\11.NumbersInIntervalDividedbyGivenNumbger.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\11.NumbersInIntervalDividedbyGivenNumbger\obj\Debug\11.NumbersInIntervalDividedbyGivenNumbger.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\11.NumbersInIntervalDividedbyGivenNumbger\bin\Debug\11.NumbersInIntervalDividedbyGivenNumbger.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console iNPUT oUTPUT\11.NumbersInIntervalDividedbyGivenNumbger\bin\Debug\11.NumbersInIntervalDividedbyGivenNumbger.pdb

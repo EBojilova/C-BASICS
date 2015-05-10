@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\04.PrintDeck52cards\bin\Debug\04.PrintDeck52cards.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\04.PrintDeck52cards\bin\Debug\04.PrintDeck52cards.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\04.PrintDeck52cards\bin\Debug\04.PrintDeck52cards.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\04.PrintDeck52cards\obj\Debug\04.PrintDeck52cards.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\04.PrintDeck52cards\obj\Debug\04.PrintDeck52cards.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\07.Loops\04.PrintDeck52cards\obj\Debug\04.PrintDeck52cards.pdb

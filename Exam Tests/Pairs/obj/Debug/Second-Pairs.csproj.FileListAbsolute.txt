@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Pairs\bin\Debug\Pairs.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Pairs\bin\Debug\Pairs.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Pairs\bin\Debug\Pairs.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Pairs\obj\Debug\Second-Pairs.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Pairs\obj\Debug\Pairs.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\Pairs\obj\Debug\Pairs.pdb

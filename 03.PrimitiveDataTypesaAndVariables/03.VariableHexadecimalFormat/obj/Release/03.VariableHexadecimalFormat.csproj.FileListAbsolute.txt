@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\03.VariableHexadecimalFormat\bin\Release\03.VariableHexadecimalFormat.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\03.VariableHexadecimalFormat\bin\Release\03.VariableHexadecimalFormat.exe
+c:\users\elena\documents\visual studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\03.VariableHexadecimalFormat\bin\Release\03.VariableHexadecimalFormat.pdb
+c:\users\elena\documents\visual studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\03.VariableHexadecimalFormat\obj\Release\03.VariableHexadecimalFormat.exe
+c:\users\elena\documents\visual studio 2013\Projects\03.PrimitiveDataTypesaAndVariables\03.VariableHexadecimalFormat\obj\Release\03.VariableHexadecimalFormat.pdb

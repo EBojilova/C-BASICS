@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BiggestTrippleArray\bin\Debug\BiggestTrippleArray.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BiggestTrippleArray\bin\Debug\BiggestTrippleArray.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BiggestTrippleArray\bin\Debug\BiggestTrippleArray.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BiggestTrippleArray\obj\Debug\Second-BiggestTrippleArray.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BiggestTrippleArray\obj\Debug\BiggestTrippleArray.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\BiggestTrippleArray\obj\Debug\BiggestTrippleArray.pdb

@@ -1,0 +1,6 @@
+c:\users\bi0game\documents\visual studio 2013\Projects\Collections-Demos\08.EventsDictionary\bin\Debug\08.EventsDictionary.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\08.EventsDictionary\bin\Debug\08.EventsDictionary.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\08.EventsDictionary\bin\Debug\08.EventsDictionary.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\08.EventsDictionary\bin\Debug\08.EventsDictionary.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\08.EventsDictionary\obj\Debug\08.EventsDictionary.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\08.EventsDictionary\obj\Debug\08.EventsDictionary.pdb

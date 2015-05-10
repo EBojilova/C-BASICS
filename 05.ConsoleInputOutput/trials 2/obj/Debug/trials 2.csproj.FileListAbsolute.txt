@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\trials 2\bin\Debug\trials 2.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\trials 2\bin\Debug\trials 2.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\trials 2\bin\Debug\trials 2.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\trials 2\obj\Debug\trials 2.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\trials 2\obj\Debug\trials 2.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\trials 2\obj\Debug\trials 2.pdb

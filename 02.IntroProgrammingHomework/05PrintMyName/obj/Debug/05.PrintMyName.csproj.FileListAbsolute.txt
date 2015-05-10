@@ -1,0 +1,9 @@
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\05PrintMyName\bin\Debug\05PrintMyName.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\05PrintMyName\obj\Debug\05PrintMyName.exe
+c:\users\elena\documents\visual studio 2013\Projects\Intro-Programming- Homework\05PrintMyName\obj\Debug\05PrintMyName.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.IntroProgrammingHomework\05PrintMyName\bin\Debug\05PrintMyName.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.IntroProgrammingHomework\05PrintMyName\obj\Debug\05PrintMyName.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.IntroProgrammingHomework\05PrintMyName\obj\Debug\05PrintMyName.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBASICS\02.IntroProgrammingHomework\05PrintMyName\bin\Debug\05PrintMyName.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBASICS\02.IntroProgrammingHomework\05PrintMyName\obj\Debug\05PrintMyName.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\CSharpBASICS\02.IntroProgrammingHomework\05PrintMyName\obj\Debug\05PrintMyName.pdb

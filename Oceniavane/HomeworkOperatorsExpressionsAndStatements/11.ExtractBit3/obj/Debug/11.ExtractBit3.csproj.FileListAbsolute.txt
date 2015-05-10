@@ -1,0 +1,11 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\11.ExtractBit3\bin\Debug\11.ExtractBit3.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\11.ExtractBit3\bin\Debug\11.ExtractBit3.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\11.ExtractBit3\bin\Debug\11.ExtractBit3.pdb
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\11.ExtractBit3\obj\Debug\11.ExtractBit3.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeworkOperatorsExpressionsAndStatements\11.ExtractBit3\obj\Debug\11.ExtractBit3.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\11.ExtractBit3\bin\Debug\11.ExtractBit3.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\11.ExtractBit3\obj\Debug\11.ExtractBit3.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\11.ExtractBit3\obj\Debug\11.ExtractBit3.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\11.ExtractBit3\bin\Debug\11.ExtractBit3.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\11.ExtractBit3\bin\Debug\11.ExtractBit3.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkOperatorsExpressionsAndStatements\11.ExtractBit3\obj\Debug\11.ExtractBit3.csprojResolveAssemblyReference.cache

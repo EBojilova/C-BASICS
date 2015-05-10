@@ -1,0 +1,12 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\13.WorkHours\bin\Debug\13.WorkHours.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\13.WorkHours\bin\Debug\13.WorkHours.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\13.WorkHours\bin\Debug\13.WorkHours.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\13.WorkHours\obj\Debug\13.WorkHours.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\13.WorkHours\obj\Debug\13.WorkHours.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\13.WorkHours\obj\Debug\13.WorkHours.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\13.WorkHours\bin\Debug\13.WorkHours.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\13.WorkHours\bin\Debug\13.WorkHours.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\13.WorkHours\bin\Debug\13.WorkHours.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\13.WorkHours\obj\Debug\13.WorkHours.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\13.WorkHours\obj\Debug\13.WorkHours.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\13.WorkHours\obj\Debug\13.WorkHours.pdb

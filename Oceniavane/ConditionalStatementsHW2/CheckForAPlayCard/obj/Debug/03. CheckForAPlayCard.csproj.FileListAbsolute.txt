@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\ConditionalStatementsHW2\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.pdb

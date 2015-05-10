@@ -1,0 +1,8 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\09.RemoveNames\bin\Debug\05.RemoveNames.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\09.RemoveNames\bin\Debug\05.RemoveNames.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\09.RemoveNames\bin\Debug\05.RemoveNames.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\09.RemoveNames\obj\Debug\05.RemoveNames.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\8.Homework-C# Advanced Topics\09.RemoveNames\obj\Debug\05.RemoveNames.pdb

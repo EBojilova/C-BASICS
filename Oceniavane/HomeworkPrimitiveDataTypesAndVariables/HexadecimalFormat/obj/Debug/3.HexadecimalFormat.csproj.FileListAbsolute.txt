@@ -1,0 +1,10 @@
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe.config
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.pdb
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\HexadecimalFormat\obj\Debug\HexadecimalFormat.exe
+C:\Users\Lambi\Desktop\SoftUni\HomeWorkPrimitiveDataTypesAndVariables\HexadecimalFormat\obj\Debug\HexadecimalFormat.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\HexadecimalFormat\obj\Debug\HexadecimalFormat.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\HexadecimalFormat\obj\Debug\HexadecimalFormat.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\HomeworkPrimitiveDataTypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.pdb

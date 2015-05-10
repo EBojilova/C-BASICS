@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SumOfElements\bin\Debug\SumOfElements.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SumOfElements\bin\Debug\SumOfElements.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SumOfElements\bin\Debug\SumOfElements.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SumOfElements\obj\Debug\SumOfElements.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SumOfElements\obj\Debug\SumOfElements.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Exam Tests\SumOfElements\obj\Debug\SumOfElements.pdb

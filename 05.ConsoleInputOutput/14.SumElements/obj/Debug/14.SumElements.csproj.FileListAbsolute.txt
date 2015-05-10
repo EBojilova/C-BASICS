@@ -1,0 +1,9 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\14.SumElements\bin\Debug\14.SumElements.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\14.SumElements\bin\Debug\14.SumElements.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\14.SumElements\bin\Debug\14.SumElements.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\14.SumElements\obj\Debug\14.SumElements.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\14.SumElements\obj\Debug\14.SumElements.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Solution2\14.SumElements\obj\Debug\14.SumElements.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\14.SumElements\bin\Debug\14.SumElements.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\14.SumElements\obj\Debug\14.SumElements.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\05.ConsoleInputOutput\14.SumElements\obj\Debug\14.SumElements.pdb

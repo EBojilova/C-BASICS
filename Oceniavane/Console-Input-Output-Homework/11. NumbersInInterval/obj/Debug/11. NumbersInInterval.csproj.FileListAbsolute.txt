@@ -1,0 +1,9 @@
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\11. NumbersInInterval\bin\Debug\_11.NumbersInInterval.exe.config
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\11. NumbersInInterval\bin\Debug\_11.NumbersInInterval.exe
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\11. NumbersInInterval\bin\Debug\_11.NumbersInInterval.pdb
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\11. NumbersInInterval\obj\Debug\11. NumbersInInterval.csprojResolveAssemblyReference.cache
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\11. NumbersInInterval\obj\Debug\_11.NumbersInInterval.exe
+C:\Users\Acer1\documents\visual studio 2013\Projects\Console-Input-Output-Homework\11. NumbersInInterval\obj\Debug\_11.NumbersInInterval.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\11. NumbersInInterval\bin\Debug\_11.NumbersInInterval.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\11. NumbersInInterval\obj\Debug\_11.NumbersInInterval.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\Oceniavane\Console-Input-Output-Homework\11. NumbersInInterval\obj\Debug\_11.NumbersInInterval.pdb
