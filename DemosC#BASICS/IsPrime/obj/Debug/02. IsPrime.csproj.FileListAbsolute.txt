@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\IsPrime\bin\Debug\IsPrime.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\IsPrime\bin\Debug\IsPrime.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\IsPrime\obj\Debug\02. IsPrime.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\IsPrime\obj\Debug\IsPrime.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\IsPrime\obj\Debug\IsPrime.pdb

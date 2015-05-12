@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\ForLoops\bin\Release\ForLoops.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\ForLoops\bin\Release\ForLoops.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\ForLoops\obj\x86\Release\06. ForLoops.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\ForLoops\obj\x86\Release\ForLoops.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\ForLoops\obj\x86\Release\ForLoops.pdb

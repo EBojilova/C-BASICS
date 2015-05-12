@@ -1,0 +1,4 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\IsPrime\bin\Release\IsPrime.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\IsPrime\bin\Release\IsPrime.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\IsPrime\obj\Release\IsPrime.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\IsPrime\obj\Release\IsPrime.pdb

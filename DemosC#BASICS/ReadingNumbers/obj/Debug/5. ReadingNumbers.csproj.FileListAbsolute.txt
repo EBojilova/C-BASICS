@@ -1,0 +1,5 @@
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingNumbers\bin\Debug\ReadingNumbers.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingNumbers\bin\Debug\ReadingNumbers.pdb
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingNumbers\obj\Debug\5. ReadingNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingNumbers\obj\Debug\ReadingNumbers.exe
+D:\SoftUni\Lectures\C# Basics\4. Console-Input-Output-Demos\ReadingNumbers\obj\Debug\ReadingNumbers.pdb

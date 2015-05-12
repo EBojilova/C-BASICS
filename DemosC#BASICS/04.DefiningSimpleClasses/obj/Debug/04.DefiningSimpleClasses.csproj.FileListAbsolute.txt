@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\04.DefiningSimpleClasses\bin\Debug\04.DefiningSimpleClasses.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\04.DefiningSimpleClasses\bin\Debug\04.DefiningSimpleClasses.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\04.DefiningSimpleClasses\bin\Debug\04.DefiningSimpleClasses.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\04.DefiningSimpleClasses\obj\Debug\04.DefiningSimpleClasses.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\04.DefiningSimpleClasses\obj\Debug\04.DefiningSimpleClasses.pdb

@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\02.ArrayOfStrings\bin\Debug\02.ArrayOfStrings.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\02.ArrayOfStrings\bin\Debug\02.ArrayOfStrings.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\02.ArrayOfStrings\bin\Debug\02.ArrayOfStrings.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\02.ArrayOfStrings\obj\Debug\02.ArrayOfStrings.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Demos\02.ArrayOfStrings\obj\Debug\02.ArrayOfStrings.pdb

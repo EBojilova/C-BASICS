@@ -1,0 +1,6 @@
+c:\users\bi0game\documents\visual studio 2013\Projects\Collections-Demos\06.SetOfStrings\bin\Debug\06.SetOfStrings.exe.config
+c:\users\bi0game\documents\visual studio 2013\Projects\Collections-Demos\06.SetOfStrings\bin\Debug\06.SetOfStrings.exe
+c:\users\bi0game\documents\visual studio 2013\Projects\Collections-Demos\06.SetOfStrings\bin\Debug\06.SetOfStrings.pdb
+c:\users\bi0game\documents\visual studio 2013\Projects\Collections-Demos\06.SetOfStrings\obj\Debug\06.SetOfStrings.csprojResolveAssemblyReference.cache
+c:\users\bi0game\documents\visual studio 2013\Projects\Collections-Demos\06.SetOfStrings\obj\Debug\06.SetOfStrings.exe
+c:\users\bi0game\documents\visual studio 2013\Projects\Collections-Demos\06.SetOfStrings\obj\Debug\06.SetOfStrings.pdb
